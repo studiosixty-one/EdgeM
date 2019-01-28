@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C3778EB-D388-442D-AB0B-86C094B5D9BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83294FBD-0F0F-474F-9212-15CD5A999568",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "21EF9F6A-BA83-4B18-8E44-E4C3C1E0DA0C",
+    "do_objectID": "02768DE8-B217-481E-A7AF-9708DE3C9617"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4AE7032C-5CBA-4401-874E-15EC4FAA885F",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 156.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Texaco",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F28341C-38D2-4998-A981-0A32FDCAD890",
+      "overrideName": "A75DBCFE-782B-4E5F-BB65-B8B3843B13BD_stringValue",
+      "value": "Texaco"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA3B3979-6A5F-4E9A-B2AD-7CA237CE2AFA",
+      "overrideName": "F2570557-163B-43CD-923F-9BF615458E98_symbolID",
+      "value": "F0ACFF40-3318-46A4-9CFE-F8AA7C59CFC4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "848AF8DF-8B15-49D4-94D6-80B8A49F0D5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2102095B-6008-4AD6-A370-B1C64DA0E1A3",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "21EF9F6A-BA83-4B18-8E44-E4C3C1E0DA0C",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

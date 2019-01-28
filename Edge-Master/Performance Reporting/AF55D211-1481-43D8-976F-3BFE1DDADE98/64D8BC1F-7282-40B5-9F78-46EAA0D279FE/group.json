@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64D8BC1F-7282-40B5-9F78-46EAA0D279FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 351,
+    "width": 925,
+    "x": 305,
+    "y": 420
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FFBB4C25-33E2-45B5-88FC-5E9198374BF0"
+    },
+    {
+      "class": "group",
+      "id": "8BDC43C5-EDCD-48E5-9E64-BDEDEF5124F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B534C2E-18B3-4196-A136-0912E6F059B2"
+    },
+    {
+      "class": "oval",
+      "id": "AE1A32A5-3C97-4D62-9BEE-4ECCE3D18BB2"
+    },
+    {
+      "class": "oval",
+      "id": "7B23A260-4E2F-49CD-A47A-5C52956FB66C"
+    },
+    {
+      "class": "oval",
+      "id": "DFFA8D8C-457D-454D-AF3A-B7EFD6C800BE"
+    },
+    {
+      "class": "oval",
+      "id": "0A99CAFD-12C3-4278-9D92-43916841C723"
+    },
+    {
+      "class": "oval",
+      "id": "C72B6AFD-91C4-445B-B4BE-2F8DD6DDA939"
+    }
+  ],
+  "name": "Graph Line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

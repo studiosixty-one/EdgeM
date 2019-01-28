@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7B86813-E8B3-468E-BABC-6350A7687D43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AC4C1BC-CEC8-41C8-8136-FD0DCAEC41F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D893CC8-49B9-4F34-8496-5A56FF6824BF",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 121
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Acton",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341C3C8A-C8DE-4A8F-BF16-E65400DCDBFA",
+      "overrideName": "38758B10-4EE2-498C-A647-9F5BD9FF722B_stringValue",
+      "value": "Acton"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDC4A7BD-397E-49A0-A11F-2D805820E724",
+      "overrideName": "C0A58414-2F7A-42AC-B466-B29491A52BD2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9874C1F-58DB-4650-A19A-E753E338C9AF",
+      "overrideName": "0D17E918-8A33-4873-969D-861F9A1C698C/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "88461AF9-F42E-41BD-8752-BD349595EA72"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CC1A5D7-903E-4F31-9B05-8C609F6A761E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "364DCF69-F0BC-4762-9791-6753824214CC",
+  "verticalSpacing": 0
+}

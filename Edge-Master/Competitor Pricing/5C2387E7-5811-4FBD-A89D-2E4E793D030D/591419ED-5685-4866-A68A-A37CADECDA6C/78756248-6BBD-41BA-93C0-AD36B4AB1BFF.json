@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78756248-6BBD-41BA-93C0-AD36B4AB1BFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38683A12-D66F-4C26-B759-63A51D05ACFC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "11E43EC8-68AD-4FF2-B996-0BC0CADD2EB2",
+    "do_objectID": "9DA86DFB-0D41-461E-8444-1F803E918FF0"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA245E56-81B2-4CCA-A6B3-6BFBA212CB10",
+    "height": 26,
+    "width": 200,
+    "x": 262,
+    "y": 58.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Show Supers",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20D14294-CE85-40AF-B1EA-A4E8922E968D",
+      "overrideName": "E4C9B65F-BCE8-4CB1-A0B8-A7E422F1D216_stringValue",
+      "value": "Show pricing details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37FD1801-BF7B-4284-AE4C-CF89A6487EFB",
+      "overrideName": "69376DB9-1279-4BFA-A685-D1391C722CC7_symbolID",
+      "value": "972F5CF0-22CD-47EE-AFDC-7EE1EF4EE8A9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E89FA60E-F17E-471B-B06B-7125ABC15E79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C00D29AE-957B-4D8D-B761-3747B6A0B122",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "11E43EC8-68AD-4FF2-B996-0BC0CADD2EB2",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

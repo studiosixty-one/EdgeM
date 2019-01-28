@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "6B3AF375-9ED6-456F-9DF1-650590EA40D2",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7A61A24-D4D1-4B71-935B-E6D4EF024A2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "814F9FF5-65E2-44E8-B332-30B941560385",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7E130AE-5ABB-4256-821D-2F145D2532AF",
+    "height": 960,
+    "width": 1300,
+    "x": 7593,
+    "y": -3082
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "11B472E0-9753-4F82-8C6D-4AEC8B958030",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AD578F72-2772-4248-834C-3AA152704A5E",
+    "guides": [
+      1084
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D2463A0-E2D9-4872-AEE1-1512AEDA404F"
+    },
+    {
+      "class": "group",
+      "id": "E0D42D53-BBD5-4881-A90F-AD6F88871346"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59494578-E6D0-4FF4-BE8B-A269D5931114"
+    },
+    {
+      "class": "group",
+      "id": "A1704FF1-3A12-4D6F-9F79-4F9BC08A0E14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FAE5003-9226-4CA8-9F5C-061243BE562A"
+    },
+    {
+      "class": "group",
+      "id": "A43C7BF2-17B2-45CB-BA7D-80FEF8F706AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8477A685-835D-42FC-AB75-BB4BFAFEBDBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62EF7802-0175-415E-9AD7-90F318222A99"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4E22EB8-4ECB-492E-8BAA-C683F42FE010"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5854CA9B-3DBB-4C05-A935-4D18E67FCCC1"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "A58331AB-63DF-47A5-9658-4AEEB564F5BB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Stations List View - Screen (5)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3C7D5EA-FCB5-46C6-AF24-16E0C75FEF3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DBFB038A-7A07-4B38-A629-97EDBFCC49DD",
+    "guides": [
+    ]
+  }
+}

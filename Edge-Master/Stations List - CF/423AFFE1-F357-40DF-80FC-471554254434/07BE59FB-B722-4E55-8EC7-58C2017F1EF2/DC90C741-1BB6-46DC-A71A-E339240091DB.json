@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07450980392156861,
+            "green": 0.1058823529411765,
+            "red": 0.03529411764705883
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Semibold",
+              "size": 16
+            }
+          },
+          "kerning": 0.08018693000000002,
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 3,
+        "location": 0
+      }
+    ],
+    "string": "HKS"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC90C741-1BB6-46DC-A71A-E339240091DB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EE80F41-B4E0-4961-9DA7-1A661B6CE401",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0934A60-0497-4A52-BE32-7D917DD36B4F",
+    "height": 19,
+    "width": 31,
+    "x": 107,
+    "y": 12
+  },
+  "glyphBounds": "{{1, 4}, {29, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Shop",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55AA6D45-2D2E-48C7-982E-1B2409195AFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "0B1CB2CF-FF27-4A3C-A379-F27D08F274FD",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07450980392156861,
+          "green": 0.1058823529411765,
+          "red": 0.03529411764705883
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SanFranciscoDisplay-Semibold",
+            "size": 16
+          }
+        },
+        "kerning": 0.08018693000000002,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 1
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

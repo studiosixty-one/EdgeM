@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85EAD4F0-BE08-4019-A655-2781A154A9E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED045916-CD9A-4723-8824-BD7698AA69EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECA9ED53-FA26-46FF-A3AA-3470C04C52D3",
+    "height": 80,
+    "width": 235,
+    "x": 0,
+    "y": 118
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metric Customisation",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E239D2F-542C-44F0-976C-A83C2B7D3BA3",
+      "overrideName": "26D7AB08-A3EF-48B7-B927-776A205860F9_stringValue",
+      "value": "Metric Customisation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "387594E9-A07F-4289-BC07-04E7DC01D1F9",
+      "overrideName": "0B240A78-8888-4DA5-A860-39A7C6C6250B_symbolID",
+      "value": "BDF07B30-D77B-412B-8F05-1A7DABED896C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5A5BE46-CC12-4C98-84B3-C6A77B553633",
+      "overrideName": "7BB2827F-0B34-4FE6-8E86-B15270F03249_stringValue",
+      "value": "Organise what metrics you see in what order on the sticky header above"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F19D029-5322-4E3D-8554-B8331045F3B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "233A5A84-EE5D-445A-964E-FC7ECDEC215A",
+  "verticalSpacing": 0
+}

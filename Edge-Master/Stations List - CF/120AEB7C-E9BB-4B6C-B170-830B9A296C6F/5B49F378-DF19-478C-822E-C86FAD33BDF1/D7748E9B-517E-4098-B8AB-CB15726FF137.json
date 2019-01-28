@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7748E9B-517E-4098-B8AB-CB15726FF137",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BFB52F2-9593-4F35-BD4F-41797AFC3D41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80E5195F-B6A2-448E-92B7-C8AAA0AE8021",
+    "height": 28,
+    "width": 76,
+    "x": 158,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Pole Price / Disable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72110837-D985-48DB-B4DB-97A3AC283044",
+      "overrideName": "975B85AD-90FD-46D8-82C3-A871E964E406_stringValue",
+      "value": "Click to edit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B32123B-0E0F-4294-804A-1ADB480C7C0D",
+      "overrideName": "2BD2A5E5-2566-4AE9-A5C2-B041980CBD71_symbolID",
+      "value": "E514EA98-F2BC-4983-A145-6EE6AB6B9503"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C91981AE-39C4-496A-B1E2-7E736924C39C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6C72617-5D11-4C07-A49F-18509D0BCC84",
+  "verticalSpacing": 0
+}

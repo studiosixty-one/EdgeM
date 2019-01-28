@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E8BFE4D-CC96-4DCD-8AD0-5300F72B5371",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3404133F-7087-4A0C-B346-B2020B761CF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99780136-A32D-44AA-B76A-6A9EE3725DEA",
+    "height": 38,
+    "width": 172,
+    "x": 25,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F4D756C-7869-43F1-B9D8-DC285238C4CB",
+      "overrideName": "46C30D9E-5C49-419F-9F8D-C4393DF2ECF6_stringValue",
+      "value": "Toby Butterworth"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BC6FE3F-8231-43D1-93EC-4EC3009615DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F301AC7-6995-4425-8037-952CC6DDB721",
+  "verticalSpacing": 0
+}

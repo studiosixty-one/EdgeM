@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4382CA95-C4FB-4773-94C1-9D6CB0D9571C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DCB1CE1-F3D7-4D48-B4EA-DA8885A0D349",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B9A7101-F289-4962-9F81-8370FD359ADA",
+    "height": 212,
+    "width": 122,
+    "x": 205,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C1D5E968-C149-4ED1-BD11-7C92EB6CA3F1"
+    },
+    {
+      "class": "oval",
+      "id": "AC4CAB7D-6EA9-4E4D-9946-FFB226276024"
+    },
+    {
+      "class": "oval",
+      "id": "AA36B72F-0FA6-421E-BDD3-3320494DD8AA"
+    }
+  ],
+  "name": "Graph - Prediction",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CCF686F-AFD3-4920-AEDC-3596377FE4AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

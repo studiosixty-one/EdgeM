@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92B9E517-DA98-4279-AE72-070FC20CAB1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFECBF7C-15F4-4E3E-9713-D4517C30C39D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "161F525A-049D-46AF-9B8F-84D6B255F44A",
+    "do_objectID": "EA4856CB-ACBC-4045-BE0A-B0E0FF206FFA"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A1C07F3-7CA0-4584-AEA9-A84D1E0E2829",
+    "height": 34,
+    "width": 117,
+    "x": 1153,
+    "y": 183
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6C4A9F-58AB-499D-BC21-FE519897646D",
+      "overrideName": "D33A063E-9D45-45F9-87D6-97DF9F77FFE3_stringValue",
+      "value": "Group by"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AAE3B94-8923-4596-8D00-8ADC72F04C42",
+      "overrideName": "884D2F8F-DD54-4446-8EA5-CC164F238EF9_symbolID",
+      "value": "E0D654F2-3F14-4E2E-9C29-F3D8E00EAADD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F4D7168-9D01-4F6A-B434-57A79BF05D15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "252DC311-94EF-481F-961D-E562EA175BB2",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "161F525A-049D-46AF-9B8F-84D6B255F44A",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

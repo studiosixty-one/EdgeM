@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2467CC06-F7E9-4050-B709-954CE91BBEE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31B59494-6C80-47FD-80BB-60857421F49F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D25DCC53-9F86-4595-BCC7-FD760C54A990",
+    "height": 36,
+    "width": 180,
+    "x": 109,
+    "y": 71
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "234C5E5E-A596-4C26-B62F-77464B6E1C00",
+      "overrideName": "EC3125CE-08E1-4288-B278-5A8604EE0675_stringValue",
+      "value": "Station Manager"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC65881A-1873-45B5-8987-539B5ADA7ABA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48A7A2BC-17AF-4322-9062-0EE54101D4C6",
+  "verticalSpacing": 0
+}

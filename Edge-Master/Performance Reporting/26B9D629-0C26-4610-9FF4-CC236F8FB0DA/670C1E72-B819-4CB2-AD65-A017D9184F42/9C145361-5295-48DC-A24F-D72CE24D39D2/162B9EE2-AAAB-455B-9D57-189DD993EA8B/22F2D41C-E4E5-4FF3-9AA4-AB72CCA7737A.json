@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22F2D41C-E4E5-4FF3-9AA4-AB72CCA7737A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16785A43-1CF3-4C57-8D38-B75D640DA28C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "87FEE66B-D45F-4093-AEA9-4565A0607505",
+    "do_objectID": "A77261AA-0979-4C71-8FEA-D96978872B1D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A62FAFBD-DD7A-4387-AD36-130C3A494D2B",
+    "height": 19,
+    "width": 85,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5969D3B2-B5C9-4271-AB1D-AAF350A22C7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18948A3D-8AAA-41D1-BE89-978AC30256E8",
+  "verticalSpacing": 0
+}

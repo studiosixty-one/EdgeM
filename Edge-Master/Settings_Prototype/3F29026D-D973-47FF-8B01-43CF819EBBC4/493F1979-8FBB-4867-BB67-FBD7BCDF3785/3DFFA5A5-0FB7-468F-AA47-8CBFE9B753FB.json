@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DFFA5A5-0FB7-468F-AA47-8CBFE9B753FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D40F259D-19EA-4489-9E50-ABA6A7742414",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A1CA243-104C-4E0A-8BE7-0803C5A8A132",
+    "height": 36,
+    "width": 180,
+    "x": 109,
+    "y": 71
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "234C5E5E-A596-4C26-B62F-77464B6E1C00",
+      "overrideName": "EC3125CE-08E1-4288-B278-5A8604EE0675_stringValue",
+      "value": "Group Manager"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE75CD60-509B-46FB-849F-354A125FA235",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48A7A2BC-17AF-4322-9062-0EE54101D4C6",
+  "verticalSpacing": 0
+}

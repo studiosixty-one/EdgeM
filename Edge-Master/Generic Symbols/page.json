@@ -1,0 +1,91 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "850CD643-F94D-4EEC-A05E-78387253E6A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -1645,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "81272182-B6C9-4BEF-955B-7CE83531B29A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5A67FC0A-3B8F-42F4-A2A2-53C7CD541D49"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1A65C0C0-983E-446C-BD2C-2442CD6E9C8C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "62F139DF-1C33-46BB-99CB-56E3887D7E2B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DCC9BD0C-2915-4142-8DF0-726A01129153"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1DF10E7B-DC2E-48B6-B660-74958850B14F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1011FABE-F8D8-46EE-8DE1-E952A9F3FA53"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2E9655D5-B845-4C8C-BC7A-173F18DC0508"
+    }
+  ],
+  "name": "Generic Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -1043,
+    "guides": [
+    ]
+  }
+}

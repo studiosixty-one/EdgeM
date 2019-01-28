@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B1A908E-C7FC-42F6-869C-AD86C5F7188A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95E7796A-EE9D-4D9F-B878-35C035D17EC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D7895A7-ED69-4883-90E9-322B0861E21E",
+    "height": 34,
+    "width": 261,
+    "x": 882,
+    "y": 183
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "49C591B0-0C11-470D-AFA8-82D7FE47C77E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9FEF4A4-FEA6-4ED2-9587-6663D75D1576"
+    },
+    {
+      "class": "text",
+      "id": "FED82244-0C2D-4F2B-847D-F6408FBEB770"
+    }
+  ],
+  "name": "Stations / Components / Filter Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF5259EC-4E99-41C4-9453-2A84978995CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

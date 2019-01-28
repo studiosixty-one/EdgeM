@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C40EB950-AD89-4D7C-BA4C-D40805F296FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E599C61-8743-44BC-91DC-4840E0A372AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5D3526C-D72D-4DC0-917E-04D681A714A7",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 56.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Select all"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC9A97F0-D59C-467F-95A7-C7623B7D7583",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "verticalSpacing": 0
+}

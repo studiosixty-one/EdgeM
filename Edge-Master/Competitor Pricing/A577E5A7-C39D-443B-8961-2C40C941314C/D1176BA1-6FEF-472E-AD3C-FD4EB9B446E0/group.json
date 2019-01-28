@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1176BA1-6FEF-472E-AD3C-FD4EB9B446E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA69E1F8-F6F2-4BCF-9A35-DC7DA8CF8347",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CAD872D4-D8C2-4439-A6F5-8B685B7A0DB0",
+    "height": 70,
+    "width": 1043,
+    "x": 229,
+    "y": 326
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "433583D8-10DE-4EDC-AC53-5CEE84F9155E"
+    }
+  ],
+  "name": "Table Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9B9C97E-040F-4406-89E8-AE7AAD8494E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

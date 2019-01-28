@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AEF5190-BDE9-4127-8417-A996AF005EDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "517F1AF9-09DC-4AF5-B757-19AA546B2468",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "620928CE-B120-4682-AD84-A01897D40CC9",
+    "height": 40,
+    "width": 40,
+    "x": 261,
+    "y": 15.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Edge Logo",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7E0DDE6-F8AC-4E2C-9B9E-9654987C18B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A196595-9F3C-4B93-8A6C-365F4401CE7C",
+  "verticalSpacing": 0
+}

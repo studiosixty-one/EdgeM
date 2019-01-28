@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0CAC52D-7CDF-4CC3-9E39-E3487990B72F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 408,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile Base",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2_symbolID",
+      "value": "80E5DB2B-9AF0-498D-AD8B-DC291DC51E83"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2/3F47AC61-7FE7-4EBB-8BFC-559BAC75D74F_stringValue",
+      "value": "S&P Global"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A234CEA2-C1C0-4BCB-9C16-1ED75C812EF4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "384AC660-94E2-400C-A0E5-E2257885D81E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2/A346AA81-3FCA-4D2A-B7E8-D94E6F60C048_stringValue",
+      "value": "Platts"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6529FABC-5725-43C5-9BE4-4F71B38EA729",
+  "verticalSpacing": 0
+}

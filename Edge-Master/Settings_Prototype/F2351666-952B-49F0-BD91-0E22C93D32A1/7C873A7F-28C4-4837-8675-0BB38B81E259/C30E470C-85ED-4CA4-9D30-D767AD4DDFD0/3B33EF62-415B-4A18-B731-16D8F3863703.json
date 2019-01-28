@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B33EF62-415B-4A18-B731-16D8F3863703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6250DECA-DEA7-4257-8963-00EFA851E130",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "467C8DD4-F598-44FF-BBD3-567761D3D377",
+    "height": 50,
+    "width": 273,
+    "x": 0,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Birmingham",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F5B888D-4FD3-4AD4-92E8-BCE63E8879C7",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Birmingham"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0355548B-0C85-4EC2-92E3-CADB33CA25F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "verticalSpacing": 0
+}

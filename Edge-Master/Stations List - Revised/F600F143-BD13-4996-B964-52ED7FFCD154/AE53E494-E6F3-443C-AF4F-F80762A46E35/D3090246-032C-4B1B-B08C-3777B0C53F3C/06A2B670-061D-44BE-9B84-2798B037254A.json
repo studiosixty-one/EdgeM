@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06A2B670-061D-44BE-9B84-2798B037254A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1684FF7-84B0-4448-9C7A-F28EB30301E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98F4C456-0CB6-4AFB-8263-91AB02F5D8D6",
+    "height": 19,
+    "width": 79,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BEB7675-968C-4AFF-AE79-CF25A5D4007B",
+      "overrideName": "CC3883F9-8C7E-448A-B4AB-68ECF97CA8AD_stringValue",
+      "value": "5 filters"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FE45FBB-F85E-4CC2-B0EB-C11D04EBA67E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18948A3D-8AAA-41D1-BE89-978AC30256E8",
+  "verticalSpacing": 0
+}

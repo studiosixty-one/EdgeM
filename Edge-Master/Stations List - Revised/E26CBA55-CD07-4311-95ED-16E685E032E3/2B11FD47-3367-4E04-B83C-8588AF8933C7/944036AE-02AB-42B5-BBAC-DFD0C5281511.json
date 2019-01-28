@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "944036AE-02AB-42B5-BBAC-DFD0C5281511",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F591200C-7FFD-4D54-855B-253033EE2A73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "648E8330-F282-432F-929B-B9D7FAC46219",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 7.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "North West",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Fuel Supplier"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E654394B-9C1D-44FC-AA01-78EAE9037BEB",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7_symbolID",
+      "value": "4C1DA78D-6F59-4EFA-93BB-C78EF4841EBD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FF044FD-8CC2-4C56-B4B5-F1A11B1D0A1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "8447886C-6142-4DB3-AC3D-B0411AD43F93",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FF0C551-EF6C-45EA-AE19-81716FC1BD6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A4F1FF8-DB15-447E-8A92-E157A276F76F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60E58E5F-CCBC-4B07-B12D-125197CC1F41",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 206.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shell",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F28341C-38D2-4998-A981-0A32FDCAD890",
+      "overrideName": "A75DBCFE-782B-4E5F-BB65-B8B3843B13BD_stringValue",
+      "value": "Shell"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA3B3979-6A5F-4E9A-B2AD-7CA237CE2AFA",
+      "overrideName": "F2570557-163B-43CD-923F-9BF615458E98_symbolID",
+      "value": "505FBA12-BEEA-48C0-B0D8-07E623F5034D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "668EEFA9-CD9B-4303-A17D-A9F293301D57",
+      "overrideName": "A92DB16A-7CF4-4E22-85E9-CB921DE0BDE4_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FF7F347-AD1F-41D3-9A55-EF5721E48ECC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2102095B-6008-4AD6-A370-B1C64DA0E1A3",
+  "verticalSpacing": 0
+}

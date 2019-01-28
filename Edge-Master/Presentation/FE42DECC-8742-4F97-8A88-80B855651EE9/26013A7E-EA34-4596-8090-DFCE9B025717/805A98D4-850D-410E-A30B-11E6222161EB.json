@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "805A98D4-850D-410E-A30B-11E6222161EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6365CA81-3E9A-4FCE-AB8D-EACA51E72F5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA7A9E6C-5053-4BA6-898D-918A03A83F2F",
+    "height": 10,
+    "width": 288,
+    "x": 20,
+    "y": 361
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Graph / X-Axis",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5760D84C-C26E-4AD8-B5F1-5FB0A5A2F5FB",
+      "overrideName": "1D487F9E-B4B3-47A5-B4B9-A3B9B28EC608_stringValue",
+      "value": "MONDAY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCF2A093-1F31-4592-A5BE-DED5B6144046",
+      "overrideName": "4743E9C1-5E2E-45BC-8FAB-4DEE9372A726_stringValue",
+      "value": "FRIDAY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BB1B218-8600-4CE2-A335-A7165F9C1A64",
+      "overrideName": "23AE084A-0582-442B-9B4A-0FBF375C4915_stringValue",
+      "value": "WEDNESDAY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42A35133-C559-40F6-AD66-FC57F73BB063",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31D6881F-FD04-4166-AE65-2BEA73E25E8E",
+  "verticalSpacing": 0
+}

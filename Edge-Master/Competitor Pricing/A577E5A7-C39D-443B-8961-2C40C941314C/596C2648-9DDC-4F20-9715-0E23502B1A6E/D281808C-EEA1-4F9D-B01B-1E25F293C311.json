@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D281808C-EEA1-4F9D-B01B-1E25F293C311",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37500981-88B0-43A4-980A-F440CF73CF4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FA5C36E-3A5B-4E1A-9180-BDA69E90EE9F",
+    "height": 45,
+    "width": 320,
+    "x": 523,
+    "y": 29
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Price On",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5756782-AC91-4D05-9632-EC31245FDFDE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9E595B0-6EC5-44DD-BC52-BEE235A2AB18",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6338871-77A3-457D-ACA6-C4CE64625567",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "737E4B50-3D2C-4538-B369-A4BA8A3CA466",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EC0E2F0-1650-4978-AE34-29C59734E526",
+    "height": 212,
+    "width": 123,
+    "x": 205,
+    "y": 144
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C583CB04-8724-48B1-A1EA-37D42C99DE4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "129310FD-34DF-4B37-9D9D-DF8CD0EDB96A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42C81F54-0915-4291-8EA2-984EDC66786E"
+    }
+  ],
+  "name": "Graph Line - Prediction",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FB6E4D3-BE7B-4625-93AA-143414023BF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

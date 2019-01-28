@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9396048B-764F-42A8-811C-29A02CBF934A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C9B99E5-3988-4E60-9642-BC0A096B7005",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6845750-A779-4187-826C-768A2013D094",
+    "height": 13,
+    "width": 20,
+    "x": 10,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Icons / Filter By",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D97533F-AEDB-42A7-BC7D-C144BCB2B7EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "155F4C62-9239-4695-A854-61B043CA3748",
+  "verticalSpacing": 0
+}

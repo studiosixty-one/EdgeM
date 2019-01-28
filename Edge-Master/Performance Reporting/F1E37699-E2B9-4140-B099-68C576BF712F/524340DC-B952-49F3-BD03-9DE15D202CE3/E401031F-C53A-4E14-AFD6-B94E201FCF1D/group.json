@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E401031F-C53A-4E14-AFD6-B94E201FCF1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B650D0DF-0445-403D-BDC7-80A1DC732057",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "227C4225-1793-4836-A0E7-F0E22B29DF9A",
+    "height": 430,
+    "width": 16,
+    "x": 19,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CC329FB3-EA3A-4A5D-A474-D7E82C6A482B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A03A6826-8678-43BD-B3B4-9AD4656322B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F094155-FBA8-45FB-A8DD-C830C530641E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D9C854A5-AFCF-4E1A-8387-CC65C232E31F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE75409E-9E3F-41A3-B286-23BB029D240A"
+    },
+    {
+      "class": "rectangle",
+      "id": "27A82041-C17D-4D10-9F3C-55BAF6065D35"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB9841F6-2038-4588-B883-BA45EF7DDEB2"
+    },
+    {
+      "class": "rectangle",
+      "id": "88CC14C8-FD03-404E-A200-37B6D885CF67"
+    },
+    {
+      "class": "rectangle",
+      "id": "205406B8-617F-4C30-B3E9-4DE69B14EDD0"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FBCD278-D953-4320-A6DB-D86CBBE29EFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "A9E4080F-F8E6-410B-BCD5-8753C54F0463"
+    },
+    {
+      "class": "rectangle",
+      "id": "A473C97A-6B78-47AA-B4F9-7133BC502987"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D566CB0-2959-4C24-9408-DD46AC757A22"
+    }
+  ],
+  "name": "Y-Tuffs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C06C07CD-4B02-4A8F-8CAD-DCC10CAD1633",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B448267-FFA8-4E5B-AFCC-4C99A39BA8A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4550285F-EFD2-44F8-8134-40B25E20954F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEE820A3-31D2-48D8-B642-D06D9A37F08D",
+    "height": 47,
+    "width": 118,
+    "x": 0,
+    "y": 206
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Components / Tooltip Dark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E650B1AD-FCEC-4B55-A2F6-236FC481E2E3",
+      "overrideName": "C642EF18-08F3-47E6-AA6B-C41E97F008DD/B53988F5-16EB-41E9-A2DB-9CA16030E7EB_stringValue",
+      "value": "£ 14,281"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5C0EA08-5C54-4C63-810D-DB1EB304EC20",
+      "overrideName": "DCA790F3-1472-4FB6-A67E-873481B4F2F5/ABA06C09-BEF7-423D-96F7-9E2D777BD2CE_stringValue",
+      "value": "2.2%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C848E840-6EAA-4DAE-8E85-FA0CFD4B876A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57DCA7DC-C3E6-4D98-B023-AA22AF9D43FD",
+  "verticalSpacing": 0
+}

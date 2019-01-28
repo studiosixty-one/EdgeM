@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9448ACC7-F2BD-48F6-9414-448DA4C1F47A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 67,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9439E89-37EF-4A3A-8E85-D5803BDD3916",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA5EA4CB-1F16-40E2-A88A-5D09F5E937DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04E2C6EF-801A-4162-A4F4-C4E6D37690F2",
+    "height": 32,
+    "width": 32,
+    "x": 1183,
+    "y": 73
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9015C188-2787-43A4-AE0D-1EF6E4D87F44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "35672AB5-779F-48DC-98FF-4916FC70FA73"
+    }
+  ],
+  "name": "Settings / Icons / Left Arrow",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8658B4D1-CB35-421E-8107-2FE3D5CE1936",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC7F6846-C896-43E4-8C05-11CCB1C17A1A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3DBD93DD-EA25-4DD0-ACAD-42FC151C9D32",
+    "guides": [
+    ]
+  }
+}

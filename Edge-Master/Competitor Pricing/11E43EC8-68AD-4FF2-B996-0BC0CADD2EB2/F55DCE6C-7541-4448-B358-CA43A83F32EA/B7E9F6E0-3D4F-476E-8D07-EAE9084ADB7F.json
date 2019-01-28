@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7E9F6E0-3D4F-476E-8D07-EAE9084ADB7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2FF0CC5-6B4F-4BA6-A23B-CE7DE6105D28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E43E1287-8D74-4645-AEA4-445BFE282D9A",
+    "height": 320,
+    "width": 196,
+    "x": 0,
+    "y": 270
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station Menu",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC691ECE-C39B-4974-AC73-1CBC2BBAB781",
+      "overrideName": "2283A926-E113-42A8-AB92-715BF01CB744/6955A113-5361-4B50-AEBD-527289ADB99A_textStyle",
+      "value": "0379BD5B-C0AC-462B-84E4-139D29036A87"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D92A2950-7FB9-4856-B525-32C463C1C1E8",
+      "overrideName": "87D312D3-08DF-4752-8D7E-8141E104E955/80B7D2FF-7102-4847-B2CD-01BA11963A1E_textStyle",
+      "value": "BDB27C46-AE9B-4668-9F11-BD20B4E17E28"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0C47CCA-FE78-4821-9FBC-715FE3F02CE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D9E6BFD-CB12-44A9-BF91-7E7539F7312E",
+  "verticalSpacing": 0
+}

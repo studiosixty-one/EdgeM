@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "700C6C6B-2E09-43F6-862A-37BC3FF2056A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DED83E9A-2AD5-4567-A721-D32B378FDAC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA26778E-C197-4386-AC52-77BFCC7B9ECB",
+    "height": 70,
+    "width": 196,
+    "x": 0,
+    "y": 218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Left / Components / Menu Item 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "706CE20F-8AE5-491E-8099-C3D38E3D07F5",
+      "overrideName": "B29254B6-8B0D-4D9A-B458-79F27431B584_symbolID",
+      "value": "B925E091-8195-418B-AD65-BE965AE79E99"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1E7933F-1559-42BB-8F79-73E313222167",
+      "overrideName": "16F9852D-AFF3-44C2-81B4-862229059A05_stringValue",
+      "value": "Stations"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "495D5876-6F59-431F-8BE5-E01BC37B2C5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A3D2AF3-A286-46DE-8027-4ABA6E28E32B",
+  "verticalSpacing": 0
+}

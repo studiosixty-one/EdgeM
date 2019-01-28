@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46516877-D84C-4E58-8651-D02AF4F0F511",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8686B23A-3989-4E54-B5E8-7DD66658F191",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF62CF94-2FF6-4B4E-8CAA-88F2A742A8C4",
+    "height": 90,
+    "width": 840,
+    "x": 385,
+    "y": 729
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Components / Metric Line Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE49B061-4685-4BA5-BCA4-5AA118C99FDF",
+      "overrideName": "4B118CFA-86E6-41BB-A25D-EA6B3B92B0C9/5275E778-82D6-4A75-8594-81DA5F1339F1_symbolID",
+      "value": "1E7952EA-CE8C-464A-B790-B196724406D5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F049806-6E6D-47FB-9745-A1C461F63227",
+      "overrideName": "8290B33A-FF8C-4D8A-9BEC-6066A268A2BD_symbolID",
+      "value": "750E04A7-ACDB-477B-986B-9C51DFB47F34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFA13B33-F4FB-409A-A6AC-F17AFDE94EE6",
+      "overrideName": "4B118CFA-86E6-41BB-A25D-EA6B3B92B0C9/91A743B5-7217-40A2-8541-62D29602AC8B_stringValue",
+      "value": "Margin £"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03D2F7D4-F666-4C45-9FEA-8C3F498330A2",
+      "overrideName": "9000F7E8-9973-4EDB-B7B8-CC3D691BB1D0_stringValue",
+      "value": "Margin £"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61B26B2B-3C6A-4519-B7E6-4A7AAAAA10A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E148F037-F53F-43E2-95F3-10033D58A8FD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBEF7C8A-EA3E-453D-A474-858C0563BD29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F4784AF-F7B6-447B-A5AD-C58A0DB70C6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F617DACD-E7BC-4958-A194-C4D7C1B252B8",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 121
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "this week",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5C6CD25-F0A8-4556-BCA3-F5F387966213",
+      "overrideName": "3CDF9433-6E91-44B4-AEA3-80740B4201C6_stringValue",
+      "value": "This week"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "234B16D7-D3EE-468E-9959-5B81C2EFEC65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B925C9C-BF69-441F-91F2-DA193BFC5F5F",
+  "verticalSpacing": 0
+}

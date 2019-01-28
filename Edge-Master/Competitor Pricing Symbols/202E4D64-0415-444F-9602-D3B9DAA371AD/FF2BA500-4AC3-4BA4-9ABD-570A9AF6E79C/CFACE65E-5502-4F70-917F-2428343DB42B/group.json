@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CFACE65E-5502-4F70-917F-2428343DB42B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A167267-E967-4987-9104-1ACD4730E164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A309E34E-E43E-49CC-BE8A-49A7947984E8",
+    "height": 13,
+    "width": 51,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EA4A3BC4-5B7F-4ED1-9B4F-1691EFF05EF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "062FBB93-FF48-447B-BCA6-8C474E5BFD24"
+    }
+  ],
+  "name": "Direct",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9F4B32E-B565-40CD-8C89-6FEC77DF610F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

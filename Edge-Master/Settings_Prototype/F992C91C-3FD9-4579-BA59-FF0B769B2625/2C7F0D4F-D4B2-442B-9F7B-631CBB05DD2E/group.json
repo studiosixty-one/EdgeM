@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C7F0D4F-D4B2-442B-9F7B-631CBB05DD2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "774948E8-FFB0-448F-BE27-C7C4B3067B7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6440D530-2A79-4122-94AF-EC33F5237BDD",
+    "height": 54,
+    "width": 950,
+    "x": 330,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "31EBFA1B-B8E3-4ED5-B213-8E59C7D6F457"
+    },
+    {
+      "class": "text",
+      "id": "45C1E969-8C10-49EE-BE8D-139BEF253615"
+    },
+    {
+      "class": "group",
+      "id": "77B35DE7-7BCC-426C-8CD4-6157905E621A"
+    }
+  ],
+  "name": "Configure Pole Price Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87037477-4B62-4BB5-A778-43215493A01F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

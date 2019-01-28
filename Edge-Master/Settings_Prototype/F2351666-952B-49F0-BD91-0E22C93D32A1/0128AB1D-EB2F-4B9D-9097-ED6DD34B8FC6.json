@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0128AB1D-EB2F-4B9D-9097-ED6DD34B8FC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F00F1D6B-C945-4788-9BC7-FEFE3A2DDFF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8417096-3857-417F-A571-9F7A699B272A",
+    "height": 38,
+    "width": 172,
+    "x": 719,
+    "y": 369
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Phone",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC05BDBB-02DE-4BC4-996F-6B80D06F26B5",
+      "overrideName": "46C30D9E-5C49-419F-9F8D-C4393DF2ECF6_stringValue",
+      "value": "07932624158"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1D8525A-9D77-4990-8DF5-9E2080C0225F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F301AC7-6995-4425-8037-952CC6DDB721",
+  "verticalSpacing": 0
+}

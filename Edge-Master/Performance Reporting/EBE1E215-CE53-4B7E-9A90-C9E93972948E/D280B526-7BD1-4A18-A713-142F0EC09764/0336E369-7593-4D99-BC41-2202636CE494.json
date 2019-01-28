@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5510469812925171,
+            "green": 0.5510469812925171,
+            "red": 0.5510469812925171
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0.1002337,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
+        },
+        "length": 21,
+        "location": 0
+      }
+    ],
+    "string": "PERFORMANCE REPORTING"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0336E369-7593-4D99-BC41-2202636CE494",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "195A6192-9324-463E-A30C-69C16391C0EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CE7CA45-69E7-4980-A2A7-3675FB5FAAA9",
+    "height": 16,
+    "width": 190,
+    "x": 30,
+    "y": 24.5
+  },
+  "glyphBounds": "{{1, 3}, {188, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Module Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E526DBC-5A3C-4E03-BAB8-75802017E6E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "FD7027FC-9889-4076-AB3B-5FF480C69D91",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5510469812925171,
+          "green": 0.5510469812925171,
+          "red": 0.5510469812925171
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SanFranciscoDisplay-Regular",
+            "size": 16
+          }
+        },
+        "kerning": 0.1002337,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

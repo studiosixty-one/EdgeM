@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED5404B3-D0B6-40A6-BE54-E82085CE726B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "103B6F2C-DC31-4ADE-97CD-5E775AEE003E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52C64E62-C7F2-4932-9544-A0BF5E7A1F3D",
+    "height": 52,
+    "width": 278,
+    "x": 0,
+    "y": 277
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Performance / Components / Date Dropdown Pick Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40F877AF-B423-4CB4-94E2-9F9C8DB32B05",
+      "overrideName": "4FA1D174-50DA-4350-8ADF-A0C72BB6333B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A68AF9E-9CC5-431D-9C6F-30099A2390D8",
+      "overrideName": "6F3CAD49-F5B3-4914-9AF2-01BF22BD4B92_stringValue",
+      "value": "weeks"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C6EE946-1E59-4A3F-9B8D-DC8EA2C7D866",
+      "overrideName": "BDE14AF5-A646-46F2-A5DF-3DCF58318460/C04020A3-19ED-47A0-A0F6-3E96BB1F950D_stringValue",
+      "value": "2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5366AC6-5FD8-47FF-B9BD-C8EEE25F2540",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FACD8532-FD45-4727-96C6-2E0054206279",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EA159F6-F4FE-4833-B598-65AD72BC862D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "613241B8-0F5C-4E15-BECE-C2DE12A9431E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F26AC96C-3D89-473E-B53F-D426C8EE82AB",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "North West",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "All"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C0B1349-F938-46E3-B27D-C3BFDF6AB055",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "verticalSpacing": 0
+}

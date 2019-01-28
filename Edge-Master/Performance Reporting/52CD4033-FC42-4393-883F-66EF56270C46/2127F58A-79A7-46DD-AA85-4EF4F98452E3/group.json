@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2127F58A-79A7-46DD-AA85-4EF4F98452E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24B0D0FF-7B21-4A9F-889A-4F0169A9625B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A31DCCD-02D9-45FD-B7A8-49968BC76410",
+    "height": 48,
+    "width": 1013,
+    "x": 259,
+    "y": 304
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "995E3BD4-8D91-443B-A8F1-5C201F73B79A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB6EE8B2-750D-49B7-80A3-B524DE06357C"
+    },
+    {
+      "class": "group",
+      "id": "E609E1D0-B48C-486C-AA85-C166F9684CD0"
+    }
+  ],
+  "name": "Graph Title & Control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72CF401F-7AA1-42CD-B772-DC59F9899889",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

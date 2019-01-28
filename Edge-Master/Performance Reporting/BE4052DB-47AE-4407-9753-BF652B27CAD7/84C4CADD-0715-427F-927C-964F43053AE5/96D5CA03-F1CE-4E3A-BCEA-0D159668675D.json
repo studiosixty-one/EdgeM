@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96D5CA03-F1CE-4E3A-BCEA-0D159668675D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAB5664D-2FC6-4337-9AC5-B9C5E098BFD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CB5DDD8-742E-4E5E-A088-058335E7F431",
+    "height": 70,
+    "width": 196,
+    "x": 0,
+    "y": 148
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Left / Components / Menu Item 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "627FDE63-83C7-481B-BD46-A3FA485E8671",
+      "overrideName": "16F9852D-AFF3-44C2-81B4-862229059A05_stringValue",
+      "value": "Portfolio"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03EAA556-37D9-4016-91BD-95754B6E8B8F",
+      "overrideName": "B29254B6-8B0D-4D9A-B458-79F27431B584_symbolID",
+      "value": "2D531CE5-920E-422F-A03C-80817E6C7A6E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07CBB25C-0EB6-45A6-A391-C319E431751F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A3D2AF3-A286-46DE-8027-4ABA6E28E32B",
+  "verticalSpacing": 0
+}

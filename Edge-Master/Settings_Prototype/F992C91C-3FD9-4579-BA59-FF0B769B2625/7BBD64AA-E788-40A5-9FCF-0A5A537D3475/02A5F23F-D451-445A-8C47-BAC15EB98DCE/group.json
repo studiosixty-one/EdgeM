@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "02A5F23F-D451-445A-8C47-BAC15EB98DCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 950,
+    "x": 0,
+    "y": 68.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D63C22A4-9228-4BA1-853D-0ED15E3C7E28"
+    },
+    {
+      "class": "rectangle",
+      "id": "851A4C4F-EE99-41B8-983D-BD4F3947A2BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F35F7EF-BCD9-472F-BF53-F12FF5767875"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E3972B1-38B6-4D2A-B670-9A7D90A5B97A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4253CC8-2481-481F-9714-AF4BB16DA366"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00DC6735-929E-499A-9888-301B94F8DFB7"
+    },
+    {
+      "class": "text",
+      "id": "3D7B34CC-5C6B-4A14-A646-05E8ABEC9D50"
+    },
+    {
+      "class": "text",
+      "id": "26886150-1CB0-4AC6-95DE-0B6185EC0427"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3E9C978-22D1-4D64-B76E-3562F5FADA73"
+    }
+  ],
+  "name": "Toby Butterworth",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

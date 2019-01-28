@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2483CFD3-DA3C-4E08-BC06-53B0E7636C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 10,
+    "x": 99,
+    "y": 210
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Components/Dashboard/Tile/Content/Graph/Pieces/Marker/Until Now",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "526D8786-0557-4782-AA08-7DAA5DC4AA41",
+      "overrideName": "3C65EB48-C51B-4D8A-8FEA-8B7E43917FF1_layerStyle",
+      "value": "C2181DAC-55EF-4116-80F1-F12436324569"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B2D3D11-408F-4B31-BFFE-3562EFA07674",
+      "overrideName": "A1084434-6548-4FF1-87CB-E9F4F0E35D60_layerStyle",
+      "value": "FE237149-D9B9-4915-838A-219B8D3503F8"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "95775D75-3C42-4276-8FAA-F1F0204BB8EC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ECF17369-C01B-4814-B55C-9967A2D16B42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA9E1592-A716-41EE-A9A4-AC36AB3C9D5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0B48EED-6385-4E62-A7D3-7024363A09E9",
+    "height": 100,
+    "width": 273,
+    "x": 0,
+    "y": 6
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Components / Station Role",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB2B220A-E004-4C5A-8D2E-C959CFF476BA",
+      "overrideName": "4A3C4F92-650D-4782-865F-7FF298DEC4AE/959C9DEE-64DE-4444-81FE-CFAD1F2F5217_layerStyle",
+      "value": "E2BA6D73-FC11-4FCE-AB0E-C0F8321F86A7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C29D40DE-9C67-449D-B4FC-3E46380CE1D9",
+      "overrideName": "4A3C4F92-650D-4782-865F-7FF298DEC4AE/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "189E5068-6241-40A8-AF4F-B13380D38C64"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "287268BA-CC4C-4DF9-BB63-1BD5E00C038D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2151FD6F-10A2-4E75-91CD-461CEF327BB7",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "6808D046-AEE4-4E31-B4EC-651C3065FDDB",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5EA7951-F9BE-4D9F-A945-5911114DF454",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F73CD8B0-F2F1-4F7B-A862-66E986BE40FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D0C2D32-57A2-4BEC-A567-4565B4E741A9",
+    "height": 10,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4743E9C1-5E2E-45BC-8FAB-4DEE9372A726"
+    },
+    {
+      "class": "text",
+      "id": "23AE084A-0582-442B-9B4A-0FBF375C4915"
+    },
+    {
+      "class": "text",
+      "id": "1D487F9E-B4B3-47A5-B4B9-A3B9B28EC608"
+    }
+  ],
+  "name": "X-Axis",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19FB3075-CA78-4219-B35B-C640ABA3922A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

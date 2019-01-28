@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F50D17AB-A472-4C7F-AC4D-05C76B06BC50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "331C5D63-5C2C-4559-AA71-795A518FDE53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10BD5B37-EC83-473B-8C63-8ADF8F22DD3E",
+    "height": 37,
+    "width": 110,
+    "x": 223,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Pole Price / Invite User",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A077C2F8-5883-4679-A816-6E542511B52A",
+      "overrideName": "DA5F0C02-736A-4977-BE51-1F5CFB38F73C_layerStyle",
+      "value": "860A88CC-91F4-4F91-B670-E404893E36DE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B93094B5-50E8-410A-98EE-1EBC609A845B",
+      "overrideName": "CFBFF7F9-6A73-4D03-8528-BBA2162F0299_textStyle",
+      "value": "450D9F30-98D6-4949-921F-26642D1546FF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7E0FE2D-415C-4517-92FD-4AFB27B29F65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5EA256E-A9E7-4048-93A4-ADE157B40754",
+  "verticalSpacing": 0
+}

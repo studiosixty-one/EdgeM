@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76ECDBF0-E830-434D-871B-523F93DE0E78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "447210A5-6421-439C-BBE1-357E30769899",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53C1C519-0132-4580-9BAD-4C3E2728F3EA",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 350
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A88F2AED-7AA3-49FF-B4D6-2CF73F9B600F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C457509A-E50D-4A6B-93E1-EA55F2BFDC9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6852FE1E-F7FB-42A8-B681-B4641EE78D1B"
+    }
+  ],
+  "name": "Egham",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCE666B6-976B-4FFF-9A04-294AD726A679",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

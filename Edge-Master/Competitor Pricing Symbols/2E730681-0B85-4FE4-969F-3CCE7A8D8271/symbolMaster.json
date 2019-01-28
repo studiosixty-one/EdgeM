@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8098A1D8-7FA9-4DCA-B8E4-6846C15FA0DE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 929,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E730681-0B85-4FE4-969F-3CCE7A8D8271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DFDA899-7FEA-4FED-9EF4-DF1EFA3CF925",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4E3EB6D-C3F5-4C5E-B02E-344B9708EF94",
+    "height": 45,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "69AA71E2-A181-4FD3-B941-7BE6FA9CBAB6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E4DE8E02-7259-420F-94B7-129ADD3B2E65"
+    }
+  ],
+  "name": "Competitor Pricing / Components / Button",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4048F99F-19F3-4453-8F42-0311121C02F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A6EA802-1697-492A-AD59-0B96B09C2D05",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9AF12D8A-DB23-46B0-ABE8-EC7B45E5152A",
+    "guides": [
+    ]
+  }
+}

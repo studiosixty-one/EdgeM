@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A090DCA3-8CBB-4B8D-82FB-101CC734871A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C29493D1-CBFA-42ED-B044-17BC9BE8BF85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C93F2732-3750-421A-A077-A3212B691E55",
+    "height": 34,
+    "width": 117,
+    "x": 896,
+    "y": 17
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6C4A9F-58AB-499D-BC21-FE519897646D",
+      "overrideName": "D33A063E-9D45-45F9-87D6-97DF9F77FFE3_stringValue",
+      "value": "Group by"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AAE3B94-8923-4596-8D00-8ADC72F04C42",
+      "overrideName": "884D2F8F-DD54-4446-8EA5-CC164F238EF9_symbolID",
+      "value": "E0D654F2-3F14-4E2E-9C29-F3D8E00EAADD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8601B67-3410-4758-A5BE-389F4F5B8AE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "252DC311-94EF-481F-961D-E562EA175BB2",
+  "verticalSpacing": 0
+}

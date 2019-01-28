@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "61E6B035-8ADE-4208-9839-1C773B205EF7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 93,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC8A1740-4E7B-43FC-8DC5-72AB3F11AA56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DA4E9FE-8455-4626-B916-A976CE096A91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85A4C4B2-6D16-4918-8FB9-F53855DAD224",
+    "height": 10,
+    "width": 10,
+    "x": 0,
+    "y": 60
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "020CBDAD-9DAC-44D5-89CB-C4935A26BBE9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "274FFC1A-F044-4423-88CA-B26DC0F8502B"
+    }
+  ],
+  "name": "Icons / Arrow / ⬅️ Left",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83975AD8-665E-41D9-9BB2-6567CF546515",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7087728F-D518-430B-96F6-3BD7900805AE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B41262AC-F8C8-4460-BC84-BF77E16BF680",
+    "guides": [
+    ]
+  }
+}

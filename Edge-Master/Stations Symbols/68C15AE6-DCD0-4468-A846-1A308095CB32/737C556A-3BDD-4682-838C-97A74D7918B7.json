@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "737C556A-3BDD-4682-838C-97A74D7918B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C114A231-5164-4FE0-9C76-A6742E272EF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD946065-8B2B-4E22-8E30-DF4FF005D8A3",
+    "height": 80,
+    "width": 228,
+    "x": 815,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "3️⃣ Metric 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49E10F47-8767-4ACA-9A03-0E2CDE24AEE9",
+      "overrideName": "82811310-FECD-4409-A508-7C3F73ED7B79_stringValue",
+      "value": "Net Margin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E78D6396-98EB-4D8D-ACC8-4A9D60DBED58",
+      "overrideName": "E277D4A5-609A-4496-BD89-EBA87D16FEE9_layerStyle",
+      "value": "7F63A85B-6B82-43AC-AC04-AE4FB2563523"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "355085D1-2980-408E-AE75-2428797F5B2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15DFAAE5-8229-40E5-98B9-A4889ACA2F2E",
+  "verticalSpacing": 0
+}

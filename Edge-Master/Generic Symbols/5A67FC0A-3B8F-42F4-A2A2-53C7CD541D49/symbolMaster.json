@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6257016F-AE6E-4CAF-92A0-8F250BE167E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 172,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A67FC0A-3B8F-42F4-A2A2-53C7CD541D49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D28112C6-C77E-4EEA-A09C-4D7B1AE65224",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA471334-F587-47E1-9658-1F815DAFDF95",
+    "height": 47,
+    "width": 118,
+    "x": 431,
+    "y": -85
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E5EAF11-2E8F-44B7-821C-C829586133BE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB92E5E5-727F-4816-950F-59573AF2E13C"
+    }
+  ],
+  "name": "Generic Symbols / Tooltip / Light - Top",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20067843-6467-4B39-84E5-A5E29B43454B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7FF0D1-5D9A-4A6E-AFB5-9DA316C5CB14",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE529B50-1151-4717-B690-7603861BF5C5",
+    "guides": [
+    ]
+  }
+}

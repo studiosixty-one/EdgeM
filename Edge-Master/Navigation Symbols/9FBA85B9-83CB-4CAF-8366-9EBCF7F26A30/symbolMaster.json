@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "817E4F04-3DCE-4902-9D10-1C784EEAA152",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 162,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FBA85B9-83CB-4CAF-8366-9EBCF7F26A30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DA3C644-FA51-4294-A396-44E6F1147131",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB339391-1078-4C77-9783-3C869E1941FD",
+    "height": 70,
+    "width": 70,
+    "x": -1732,
+    "y": 1177
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "83E4152D-ED26-4F22-9104-8F5CD2FB8BFD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DF19B707-2260-48E3-964B-A8640A9F5473"
+    }
+  ],
+  "name": "Navigation / Left / Menu / ✅ Selected - Collapsed",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC65EA00-81B8-4E27-92CF-D33CE74D793D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "93B8CA57-285A-425F-BD74-5DAEC20A7988",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DB5B0E37-1143-4081-96A1-DCD618267D4A",
+    "guides": [
+    ]
+  }
+}

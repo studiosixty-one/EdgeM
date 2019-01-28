@@ -1,0 +1,79 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C2561CB-3A2E-49C2-8B8C-40FC119C67C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -1578,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "C2ED77DA-D762-4FA4-98E0-7F00FB93D961"
+    },
+    {
+      "class": "artboard",
+      "id": "2A142D9D-6326-41E5-A112-923B14622125"
+    },
+    {
+      "class": "artboard",
+      "id": "7D8570DB-0044-4930-9859-A1942AB74171"
+    },
+    {
+      "class": "artboard",
+      "id": "D6324B43-2797-44B1-AFAF-A1878BFB1F59"
+    },
+    {
+      "class": "artboard",
+      "id": "84AA4F42-665F-4432-A8AF-A0AD621C9F06"
+    }
+  ],
+  "name": "Settings",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -1043,
+    "guides": [
+    ]
+  }
+}

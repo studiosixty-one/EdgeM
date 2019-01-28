@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "68B2481B-13AA-4AF7-B33C-E583ED06E837",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E9E0327-5D05-495C-8A34-0333291A3947",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C3E0001-5140-4689-A83F-AA7792CCA392",
+    "height": 50,
+    "width": 950,
+    "x": 330,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E6727E39-9138-4C0B-A4D1-103251FD9C43"
+    },
+    {
+      "class": "text",
+      "id": "037A577E-2C12-4627-AC63-4480C8F635AF"
+    }
+  ],
+  "name": "Settings Page Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "297A5995-BD96-4989-9735-779AF5B402E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

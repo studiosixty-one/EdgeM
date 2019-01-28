@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "25EB601E-A434-4F19-900C-6C0189F41F1D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 41,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D1C6743-A897-43DB-9563-BB597DEB7BBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "500A32A6-E8C1-4522-999E-7366175089D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "094302C7-5668-4255-91A7-A795E7574517",
+    "height": 10,
+    "width": 10,
+    "x": 430,
+    "y": 81
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB3F87FD-A0F5-4FB9-9E16-5BD6A0A92E78",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6E474F10-B4F4-4DF9-9A9E-65A230DCAED5"
+    }
+  ],
+  "name": "Stations / Icons / Ascending",
+  "nameIsFixed": false,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6ACD7DF6-FBD7-4466-B67B-CDA20F0541F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8C912AA-BD53-4096-A37D-E6A1DE3D9DD0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7C8BDF9A-AEA0-428C-9735-66F20E4C3544",
+    "guides": [
+    ]
+  }
+}

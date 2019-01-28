@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "244E8A1E-D7DC-4441-B67D-E5A1BBF6F441",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 816,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E0907D3-5E53-49AF-9F7E-48C5FC25A39A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0129B3D-6934-446D-B0FC-638306BC2BB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "438A6ACE-28A2-4607-B65E-82E167A88B89",
+    "height": 345,
+    "width": 195,
+    "x": 0,
+    "y": 1448
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DE729057-DAA7-4151-9897-CAC6478F6F31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "55A43352-55BC-4BB1-8823-1D4B8AAB9F01"
+    },
+    {
+      "class": "text",
+      "id": "BCAA7D9D-F715-456C-AED8-B2E3FA3F230A"
+    },
+    {
+      "class": "text",
+      "id": "DA3722C4-A15E-493B-B8F7-63E244FD8901"
+    },
+    {
+      "class": "text",
+      "id": "DD50823E-C9E7-4670-BE9A-70D593D6347A"
+    },
+    {
+      "class": "text",
+      "id": "B368435C-1AC1-482E-880F-64747FFE2DB5"
+    },
+    {
+      "class": "text",
+      "id": "6AE30B68-5228-4F85-AD2D-DC0C32B67DEC"
+    },
+    {
+      "class": "text",
+      "id": "ADAB2CD8-8B22-4A20-B745-DDC0AFEDCE1F"
+    },
+    {
+      "class": "text",
+      "id": "3D1196E2-2358-4011-8403-78E9B7EDE322"
+    },
+    {
+      "class": "rectangle",
+      "id": "6EECC9E6-4E74-4921-B9CC-160F5FD33471"
+    }
+  ],
+  "name": "Navigation / Left / Components / Station List",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71E7F1F1-18DF-4F33-8212-82D7315C501F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C19D7497-2208-49B6-BADE-57218EF9FBB4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "12506024-0960-420B-A66E-6A8CE0539422",
+    "guides": [
+    ]
+  }
+}

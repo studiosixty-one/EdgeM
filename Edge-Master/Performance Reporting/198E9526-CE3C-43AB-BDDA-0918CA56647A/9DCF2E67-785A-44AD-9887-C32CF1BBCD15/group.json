@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DCF2E67-785A-44AD-9887-C32CF1BBCD15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D31AD829-0FB6-4959-B89D-AE3A87F9FDC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "436824BD-AE43-4F82-8924-BDD15A307053",
+    "height": 294,
+    "width": 929,
+    "x": 301,
+    "y": 485
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "353E905A-08CE-4438-BA98-72090571FEB8"
+    },
+    {
+      "class": "oval",
+      "id": "D1DAFECF-15D5-44B3-B5CB-1BA50AD4D2FC"
+    },
+    {
+      "class": "oval",
+      "id": "17E7F4C1-1AC9-4FF0-A62A-95DD6D11F2F5"
+    },
+    {
+      "class": "oval",
+      "id": "A2CD54F0-6FBC-42D8-962A-94526ED91333"
+    },
+    {
+      "class": "oval",
+      "id": "C9C66874-E62C-405B-93B2-A0BB6392BDF4"
+    },
+    {
+      "class": "oval",
+      "id": "65C9C153-3258-49B4-B8F7-08CAC823078C"
+    },
+    {
+      "class": "oval",
+      "id": "1C2319E4-F615-4116-8EC1-B197CBF76CF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F68EEEF-19BF-4E62-9F72-303055534C71"
+    },
+    {
+      "class": "group",
+      "id": "5AEF9A5E-3F30-46FE-9A45-6DCAAAADE926"
+    }
+  ],
+  "name": "Texaco Volume",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "94533BE1-D283-4705-AFB2-1F3C32478C37",
+      "opacity": 0.1248604910714286
+    },
+    "do_objectID": "F41144D5-8161-423F-95FC-385CF506B752",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

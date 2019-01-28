@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E03677C2-F4C7-4A3C-BBAE-A97E554BD328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E40F88CB-E50B-4D8F-A59F-4A41B1B4653F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABB16B50-8F3D-4FA3-9A1A-50FBD8ECBA8B",
+    "height": 31,
+    "width": 288,
+    "x": 20,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station Five",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "739DA9E3-BE36-4E3E-8698-56C01BF57D5C",
+      "overrideName": "E8D5C4FC-434B-4B79-8C83-D86D41F39BE4_stringValue",
+      "value": "Glasgow Town Centre"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF0317EA-9B43-4AA3-9AF8-31C72D3BF540",
+      "overrideName": "C074CF5D-7892-45F8-8493-3D79620B10D0_stringValue",
+      "value": "15,481"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A269871A-88D3-4319-9CD9-761BB1A4FBC9",
+      "overrideName": "DD1D510A-6618-4588-AFEE-5DD2A7756068/FD7CB97E-1718-4FB5-A0FB-434B7EED3540_stringValue",
+      "value": "3%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "987AA893-5126-4418-9EF2-80A56813279F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6EFAE31-7B51-42A2-9A08-FF3E763A6F1E",
+  "verticalSpacing": 0
+}

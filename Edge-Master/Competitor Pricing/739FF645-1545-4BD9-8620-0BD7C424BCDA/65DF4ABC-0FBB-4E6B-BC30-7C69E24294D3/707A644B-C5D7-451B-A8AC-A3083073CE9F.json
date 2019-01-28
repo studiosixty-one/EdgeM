@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "707A644B-C5D7-451B-A8AC-A3083073CE9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "151BF538-6816-4E36-AA1A-B784B2711832",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "5C2387E7-5811-4FBD-A89D-2E4E793D030D",
+    "do_objectID": "D80FCE77-3DD0-4113-9BAB-42ADFAA79DA9"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A979C6AD-F674-45B9-8CB4-24C23DD15AA8",
+    "height": 26,
+    "width": 200,
+    "x": 262,
+    "y": 58.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Show Supers",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20D14294-CE85-40AF-B1EA-A4E8922E968D",
+      "overrideName": "E4C9B65F-BCE8-4CB1-A0B8-A7E422F1D216_stringValue",
+      "value": "Show pricing details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBD28F5B-FB67-4ABF-910C-4481A8179407",
+      "overrideName": "69376DB9-1279-4BFA-A685-D1391C722CC7/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "9D8CDEF7-E615-456C-BD35-49FEA18AC965"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D27EA004-6834-4283-B50A-E9C5FC2AC56A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C00D29AE-957B-4D8D-B761-3747B6A0B122",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACD5957A-CEC7-46A3-9ABC-9820CDDCE2A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC1EB9D8-65F5-4772-BD9C-0DA07253CD52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "257D02B4-1EDB-4DE4-809A-65F86FFFA6DB",
+    "height": 181,
+    "width": 1,
+    "x": 103,
+    "y": 142
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Scrubbing Line",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "696846A0-BD07-4A77-AD97-3A27468AF42F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "78868555-A283-4887-A869-6C55739296D7",
+  "verticalSpacing": 0
+}

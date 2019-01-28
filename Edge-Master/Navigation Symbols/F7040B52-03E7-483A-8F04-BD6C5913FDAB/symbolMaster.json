@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AAC57DDD-7B03-47AD-B568-C919ABC084FB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 29,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7040B52-03E7-483A-8F04-BD6C5913FDAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A1DDA25-43EF-4607-B6D6-AE5FD81BC761",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70A7980C-ED82-4CA0-AF45-C58A4BF7DD85",
+    "height": 1,
+    "width": 178,
+    "x": 396,
+    "y": 144
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF2FE25D-34D3-4B3F-8ABF-928D8D6637D5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E04FA9F8-203C-42FD-B1AF-ABB47518CDE8"
+    }
+  ],
+  "name": "Navigation / Settings Menu / Separator",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7BECC52-4EAE-4C02-B9CC-F80E15586507",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37128A2E-9738-4D3F-BE39-F406BDE1600E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13C34EFC-D578-4B3A-AE3D-58443F43E45F",
+    "guides": [
+    ]
+  }
+}

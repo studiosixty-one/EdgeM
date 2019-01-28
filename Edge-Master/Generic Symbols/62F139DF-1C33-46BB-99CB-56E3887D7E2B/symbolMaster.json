@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A6359EC8-CD3D-4743-92CE-2A8AFC6E9651",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 68,
+  "clippingMaskMode": 0,
+  "do_objectID": "62F139DF-1C33-46BB-99CB-56E3887D7E2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAF5D6DF-F3CD-4E71-8955-F37E6864796A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D79C8522-B12F-48C3-8063-004B039EF937",
+    "height": 47,
+    "width": 118,
+    "x": 507,
+    "y": 68
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1BF0C0FC-B18C-4A2C-A244-1E1CC4DB2FA6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C102FF56-2BEA-475E-B868-AD5EB82403E1"
+    }
+  ],
+  "name": "Generic Symbols / Tooltip / Dark - Bottom",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B3A5F5C-8C3B-4B90-A345-BC5F3B9252C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E514EA98-F2BC-4983-A145-6EE6AB6B9503",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F1C2460-32B9-45EA-A9FC-AA89A8809B13",
+    "guides": [
+    ]
+  }
+}

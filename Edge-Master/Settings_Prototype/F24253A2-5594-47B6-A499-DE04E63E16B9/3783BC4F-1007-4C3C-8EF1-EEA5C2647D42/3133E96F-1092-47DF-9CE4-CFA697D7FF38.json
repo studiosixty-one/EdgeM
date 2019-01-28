@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3133E96F-1092-47DF-9CE4-CFA697D7FF38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A79B2DD-F81E-405D-BB49-9B760BBEB656",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "120A6EFB-8136-47B3-B195-B66673AF2C95",
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 78
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C2AC960-6C03-4692-9123-25FA4746308C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "138CF8CF-6C24-4DB2-A1AD-9C88811ECCB7",
+  "verticalSpacing": 0
+}

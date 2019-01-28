@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDCF1355-5607-4C51-9312-F5EE4A5DE950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56F62CE1-146B-4CAB-9C4F-105D03C6B2CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00423FA0-94B0-4D98-A89D-B693AA479504",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 69
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "today",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5C6CD25-F0A8-4556-BCA3-F5F387966213",
+      "overrideName": "3CDF9433-6E91-44B4-AEA3-80740B4201C6_stringValue",
+      "value": "April 23, 19 - May 26, 19"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2CCCEDA-AD79-4E2D-AB44-B5A04C6CA133",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B925C9C-BF69-441F-91F2-DA193BFC5F5F",
+  "verticalSpacing": 0
+}

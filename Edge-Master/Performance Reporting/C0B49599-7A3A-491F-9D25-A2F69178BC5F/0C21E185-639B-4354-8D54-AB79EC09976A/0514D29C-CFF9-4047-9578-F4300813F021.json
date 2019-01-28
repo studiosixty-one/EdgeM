@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0514D29C-CFF9-4047-9578-F4300813F021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49B4DFB6-1F83-4999-9741-1E7240D7C1EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE8EF9C6-99B0-415C-92D7-5DD737D1EF81",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Region",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Estate"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "822D7FD6-F7D9-4A94-9637-9FA52CD9D5D6",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7_symbolID",
+      "value": "4C1DA78D-6F59-4EFA-93BB-C78EF4841EBD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C14FAA7-BF7B-446E-AA0D-2BFD523AE2C2",
+      "overrideName": "74FCB17F-617B-4531-A020-54C236692B94_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B52B701-6233-4C63-AAA5-C18B69136C6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

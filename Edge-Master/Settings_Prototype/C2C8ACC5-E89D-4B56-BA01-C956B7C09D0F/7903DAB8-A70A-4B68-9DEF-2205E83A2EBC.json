@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7903DAB8-A70A-4B68-9DEF-2205E83A2EBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C01D1840-8DE1-4F7E-BEA3-5DF6303C9EC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9C54D15-F249-4128-B76F-76AF7D96EFF4",
+    "height": 38,
+    "width": 172,
+    "x": 537,
+    "y": 369
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Email",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC05BDBB-02DE-4BC4-996F-6B80D06F26B5",
+      "overrideName": "46C30D9E-5C49-419F-9F8D-C4393DF2ECF6_stringValue",
+      "value": "scott@scottkrieger.co"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CAC039C-A9AD-4EE9-818B-369B6DE224D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F301AC7-6995-4425-8037-952CC6DDB721",
+  "verticalSpacing": 0
+}

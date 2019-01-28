@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7A0D7C9-1933-42DC-BED6-057A35BEF51D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A99980DC-40A7-4781-8749-A0371D064AB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAA79D2C-CABD-4E61-BF4D-9E3131EBE268",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B267EB75-F30B-45A2-97B5-7B6D788C3C63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCE1D3F4-7E05-4828-ADDC-B1110B227E86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ECD94DC-5F2A-40D3-89F6-147AB15CCF1F"
+    }
+  ],
+  "name": "Baddesley",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECA06978-9F41-4208-BEE3-43051849646F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DB773C7-C2F1-4D03-8CF3-984181C1A995",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2350FC7F-46B1-4A03-8E55-F34B18005A65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55641791-A5E4-4C43-9DEC-E214A0234D34",
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84FFDE41-0891-4B4B-BAFF-F3B57FC28988",
+      "overrideName": "CA795EDE-1C22-4854-9F8B-2CEF51A9EB16_symbolID",
+      "value": "B925E091-8195-418B-AD65-BE965AE79E99"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26A2ABCE-967D-4690-ADD8-6CBBC94AB1D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "138CF8CF-6C24-4DB2-A1AD-9C88811ECCB7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82D57734-5398-46C6-83AE-3A4427A8F3A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B561F6D-B4C3-4147-9844-85F63E8B87E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A04B3BC1-2075-43D8-B476-35AB0088E9CF",
+    "height": 38,
+    "width": 172,
+    "x": 355,
+    "y": 369
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "699D420F-E4E8-4A14-86A2-74A0660B0509",
+      "overrideName": "46C30D9E-5C49-419F-9F8D-C4393DF2ECF6_stringValue",
+      "value": "Scott Krieger"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B618F7D-3D97-43B3-A355-C53887EAD2F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F301AC7-6995-4425-8037-952CC6DDB721",
+  "verticalSpacing": 0
+}

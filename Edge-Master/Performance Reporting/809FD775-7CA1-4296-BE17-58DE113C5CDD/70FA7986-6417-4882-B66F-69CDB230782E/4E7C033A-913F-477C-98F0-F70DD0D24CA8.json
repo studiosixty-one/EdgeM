@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E7C033A-913F-477C-98F0-F70DD0D24CA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "507D826D-AEBD-4133-8FDE-91BD7FCFB276",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "EBE1E215-CE53-4B7E-9A90-C9E93972948E",
+    "do_objectID": "D207B017-ADCB-49A8-960E-0491A650CB6C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A98DBA7A-F350-489D-A89E-E5E5F1E3ED08",
+    "height": 45,
+    "width": 130,
+    "x": 135,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Edit Pricing",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A6654BB-5FB1-4406-B4C6-5CA03E66C355",
+      "overrideName": "E6B656DF-D916-403C-88AE-081CDA28DFDE_stringValue",
+      "value": "Okay"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "696EABC8-2F3D-4859-B3BE-9BE6061FF789",
+      "overrideName": "D316E40A-BA4C-47E8-9105-987CB863669C_layerStyle",
+      "value": "3E89F6A5-2EB1-4FBC-A59C-8F0C66DFDAB9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01E6EDD0-B4D3-4D55-8378-1BC8502A6A6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A6EA802-1697-492A-AD59-0B96B09C2D05",
+  "verticalSpacing": 0
+}

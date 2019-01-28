@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CF8C842-D5E3-4167-9918-1BD217222DD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 288,
+    "x": 20,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "27B0E919-1569-42DE-817A-F8044E7FD471"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A80855C-C6BC-47DD-92E3-A14BF9082F53"
+    },
+    {
+      "class": "shapePath",
+      "id": "00B2ACFE-2706-445E-A6FB-0B6333EF2BB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "095CE46B-5DC8-4A5E-AD17-5F535FBE2976"
+    }
+  ],
+  "name": "Graph Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "148A355F-267D-4F3B-B9B3-53C86C9327CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "852EBAFE-50E5-4EA9-8FF2-BDCBACB4DD7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "969DD7DC-A49D-48EE-90AA-A111F8D81F9B",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Midlands",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Margin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65EEFD47-1C39-4BCB-B3C8-2001863A56B3",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7_symbolID",
+      "value": "972F5CF0-22CD-47EE-AFDC-7EE1EF4EE8A9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5708F063-DFBB-45F0-83A2-47203B45788D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

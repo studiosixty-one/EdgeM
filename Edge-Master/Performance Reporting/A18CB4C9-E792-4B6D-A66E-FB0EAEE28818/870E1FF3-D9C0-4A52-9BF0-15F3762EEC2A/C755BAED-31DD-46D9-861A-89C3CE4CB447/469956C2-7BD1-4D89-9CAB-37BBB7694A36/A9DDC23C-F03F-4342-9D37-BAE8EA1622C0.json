@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9DDC23C-F03F-4342-9D37-BAE8EA1622C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DA8CBC7-4EE8-4EAA-A3E4-F14269AD120E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5504B21-8B28-465A-98C3-E704D130BDB2",
+    "height": 19,
+    "width": 89,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F230D9A9-F946-4B2B-BC16-8E3FF2E7BC70",
+      "overrideName": "CC3883F9-8C7E-448A-B4AB-68ECF97CA8AD_stringValue",
+      "value": "Fuel Sup."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A24D46CE-F69A-49DC-8AAD-B355B9DF06B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18948A3D-8AAA-41D1-BE89-978AC30256E8",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

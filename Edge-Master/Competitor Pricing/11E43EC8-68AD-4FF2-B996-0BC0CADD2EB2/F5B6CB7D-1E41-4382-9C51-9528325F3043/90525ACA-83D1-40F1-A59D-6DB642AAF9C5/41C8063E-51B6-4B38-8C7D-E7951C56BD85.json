@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41C8063E-51B6-4B38-8C7D-E7951C56BD85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "022C7BD5-7EB4-4C21-B0FE-71F4CC676F19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F665DF6-CD57-4E6C-955E-031A2CDB8E14",
+    "height": 70,
+    "width": 450,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FBAC729-39EC-48CF-9D3B-997D984DD27A",
+      "overrideName": "8C4B36E6-8C59-40B9-AD34-C4004EE96C17/64201B96-97EF-41DB-9310-82792D3CD7D8_layerStyle",
+      "value": "0D706268-242E-4CB7-9001-0D4E44F6AC2C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBA80434-308A-4A7F-AEA5-016D989650B6",
+      "overrideName": "09F92865-53B0-4F6E-AB9A-8B9F411BC2C3/64201B96-97EF-41DB-9310-82792D3CD7D8_layerStyle",
+      "value": "88461AF9-F42E-41BD-8752-BD349595EA72"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFFC3385-038D-46E5-AE72-D34BF0A23976",
+      "overrideName": "72A94E23-D279-44BD-8761-A6D7BA16FF68_layerStyle",
+      "value": "60F68D57-FDE8-4CC8-843D-90B8710E48B0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97A16339-8575-48F6-8986-319AD2F968AD",
+      "overrideName": "A9D5E709-E800-4030-8E3A-58F4C4A9EEEC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63DAFB64-DA2E-4E42-93BC-2D5DE2718174",
+      "overrideName": "C5C4B18D-33B7-4F4F-A665-EC5AAA5012B8/9C1B94A1-02F5-46A5-9E4D-977E0D6AD9EF_layerStyle",
+      "value": "88461AF9-F42E-41BD-8752-BD349595EA72"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE75F95-4EB1-4D87-924F-2335E11A898E",
+      "overrideName": "6AEF5190-BDE9-4127-8417-A996AF005EDB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A6DCDEE-EC42-492B-8A45-000E34C083E2",
+      "overrideName": "195DA2A9-23A7-4122-B77D-C37C930707A5_stringValue",
+      "value": "Finchley Central"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D924205-4600-4689-A03E-53311D09C240",
+      "overrideName": "68CF3A8C-4023-4B6A-9C30-20A4381D25AA_symbolID",
+      "value": "E9BB4797-91A3-455D-A759-8618AEB50A66"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CEBF62E-6078-49FA-8203-C327B7BEABCE",
+      "overrideName": "6338736E-C7CD-4FA6-94FB-D4E6D89D7BCC_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C05CB567-C193-4533-B77F-0208EEB7B628",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2D41446-4C45-4630-B47E-D65067314EA6",
+  "verticalSpacing": 0
+}

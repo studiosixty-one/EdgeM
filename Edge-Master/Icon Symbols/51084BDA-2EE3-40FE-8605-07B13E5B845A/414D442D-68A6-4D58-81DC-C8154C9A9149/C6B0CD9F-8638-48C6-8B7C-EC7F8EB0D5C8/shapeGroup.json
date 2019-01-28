@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6B0CD9F-8638-48C6-8B7C-EC7F8EB0D5C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B00E62AE-BBDB-4F60-8875-5E7A8AA374F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48C2BBFC-E3B6-449B-A23A-BC2880794DF6",
+    "height": 18.88976867577754,
+    "width": 5.611369256948382,
+    "x": 8.016124787294407,
+    "y": 14.84740701396964
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "38546083-7EE0-4C42-B757-32C07E98127C"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6E641FA-B657-4809-A793-4E0230B0F920"
+    }
+  ],
+  "name": "Fill 28",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B61352CB-0150-4C6F-B43A-B68E5E2115A0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.345,
+          "green": 0.761,
+          "red": 0.224
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

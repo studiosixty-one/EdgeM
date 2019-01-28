@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4854C4CC-5322-437C-8FFF-4CA260C16645",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81A42ADE-F2F2-48EE-AEAE-AC0D3A99AAFC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B57C5CB9-CBB1-49E5-9D87-7A92532C35E1",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 277
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chichester",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341C3C8A-C8DE-4A8F-BF16-E65400DCDBFA",
+      "overrideName": "38758B10-4EE2-498C-A647-9F5BD9FF722B_stringValue",
+      "value": "Chichester"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C920D6F-0C09-4435-930E-ECFAB10FAA87",
+      "overrideName": "C0A58414-2F7A-42AC-B466-B29491A52BD2_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDF0A1BC-34F7-400D-9E51-EF64CE2465D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "364DCF69-F0BC-4762-9791-6753824214CC",
+  "verticalSpacing": 0
+}

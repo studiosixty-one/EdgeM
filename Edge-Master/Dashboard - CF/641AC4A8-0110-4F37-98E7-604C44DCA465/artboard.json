@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9449852108955383,
+    "green": 0.9451572299003601,
+    "red": 0.9449954032897949
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "641AC4A8-0110-4F37-98E7-604C44DCA465",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 985,
+    "width": 1300,
+    "x": 638,
+    "y": 280
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      226,
+      584,
+      554,
+      942,
+      1270,
+      912,
+      267,
+      308,
+      349,
+      390,
+      472,
+      513,
+      962,
+      1250,
+      1521,
+      1106,
+      1178,
+      1034
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4BA3FBBD-8289-4DC3-B557-7F8E3D24982F"
+    },
+    {
+      "class": "group",
+      "id": "379E134C-1DC8-41F1-8DC3-B1C65FB36C96"
+    },
+    {
+      "class": "group",
+      "id": "985F4C69-052A-427A-A728-4A376E1920D9"
+    },
+    {
+      "class": "group",
+      "id": "FA561DA7-B7BC-4080-B1ED-B9E764784EC8"
+    },
+    {
+      "class": "group",
+      "id": "18D85A6A-65DE-4012-9278-FA8F016BF766"
+    },
+    {
+      "class": "group",
+      "id": "459BB621-3DB6-41A2-8A65-3DFE06CC5798"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43DD8020-E984-49AC-933C-9725F65F21A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CD1D071-EAE6-4266-8A7E-B77E34062B05"
+    },
+    {
+      "class": "group",
+      "id": "4CFB0B3D-B0D9-49D4-B0B7-BCD98DCA50D4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Dashboard- CF",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      687
+    ]
+  }
+}

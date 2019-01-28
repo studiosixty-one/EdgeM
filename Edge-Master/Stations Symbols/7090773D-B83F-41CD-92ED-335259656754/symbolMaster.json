@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "813CEB70-A098-445A-87AB-BB711C6605BD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 453,
+  "clippingMaskMode": 0,
+  "do_objectID": "7090773D-B83F-41CD-92ED-335259656754",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "825C0731-69D3-484B-8703-3C352296E96C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E296341F-104F-4F16-8572-900A01703C19",
+    "height": 50,
+    "width": 50,
+    "x": -192,
+    "y": -247
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "845376F3-BE79-43E3-A0AF-D2079573D316",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "30E7D6E3-7B6A-415B-9AD3-AECE9C98906B"
+    }
+  ],
+  "name": "Stations / Icons / Station_BP",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "453C8F10-5F5B-4D3A-9704-21665CC4E8C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68E2D6CE-9F75-4564-B668-23AE5A70A56B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4F85B3E-72DB-4AB9-830D-33FC3A952F67",
+    "guides": [
+    ]
+  }
+}

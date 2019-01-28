@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "223F8CDE-6783-49C2-8365-D2D6678D089E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EE6C5E9-306F-49E8-B615-2A2E6FDF56E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ED2ADACD-05AA-4395-942B-C655520CC518",
+    "height": 20,
+    "width": 20,
+    "x": 442,
+    "y": 880
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Icons / Station_BP",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CB16CBD-9BAF-43BD-AA5C-51110983D40C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "505FBA12-BEEA-48C0-B0D8-07E623F5034D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D98F4CD-2F5F-4D7F-A799-39FF64B2F619",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "089FC7DD-4533-4484-9865-B4F7C2CED179",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C2DE2A2-0F35-49D0-9007-3B29BACEAF66",
+    "height": 100,
+    "width": 273,
+    "x": 0,
+    "y": 206
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Components / Station Role Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47094CE4-A99A-4034-8974-1A75C77B13F4",
+      "overrideName": "4CA40057-6380-4DF4-918F-7D8767B2A983_stringValue",
+      "value": "Notification Only"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "988CAE37-A1AB-4D45-8E69-2D541915741B",
+      "overrideName": "E56FC416-1009-486B-9360-17FB22199F93_stringValue",
+      "value": "Usually a station manager who needs to receive pole price changes."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72A6B598-4D76-4AE3-86DC-D4648F134293",
+      "overrideName": "9488AC56-C0B9-42C0-B457-58BCB4A6B8FB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6E95B59-4528-4ABE-8600-AC11DFC87536",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2151FD6F-10A2-4E75-91CD-461CEF327BB7",
+  "verticalSpacing": 0
+}

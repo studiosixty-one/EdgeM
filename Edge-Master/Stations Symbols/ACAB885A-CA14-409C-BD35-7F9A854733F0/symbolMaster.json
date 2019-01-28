@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BA472ABE-0591-4F02-81D9-3E9B225201E1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 9,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACAB885A-CA14-409C-BD35-7F9A854733F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDB1303E-06F9-4640-B37B-D968A11D375A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85B74F6D-197A-4A9C-8392-978EB1923005",
+    "height": 10,
+    "width": 10,
+    "x": 430,
+    "y": 191
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCF45730-C7DC-4A29-A92A-601DD4EDEB1C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7CCC5BE5-A39B-4745-AE5C-27FAE2DD05E5"
+    }
+  ],
+  "name": "Stations / Icons / Descending",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A36BF5D-2A76-4733-A5F5-A128F21B36DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D2267460-275B-4B91-9002-3F054F31B8A3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62D61FBE-B3D9-4F8D-B02A-0D0448611A1A",
+    "guides": [
+    ]
+  }
+}

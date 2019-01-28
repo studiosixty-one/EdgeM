@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "66693974-C596-4368-975C-50EAFBD56145",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 123,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D0B004F-234B-4A0F-8608-5A3E4D1A8B7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AFCE50E-E9E5-47A7-AFC6-AC37633A7F00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "411EDF20-A6A1-4FE6-B4B6-B6C4C0DC5F50",
+    "height": 90,
+    "width": 840,
+    "x": 1506,
+    "y": -564
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6178568D-04FE-47BB-8398-EF42C44C69EE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "760BD9A2-6C9E-47FD-B6AC-E7AAF8367F6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6B05A45-6CE9-4E8C-AEAF-BF247D5FD368"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B118CFA-86E6-41BB-A25D-EA6B3B92B0C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8290B33A-FF8C-4D8A-9BEC-6066A268A2BD"
+    },
+    {
+      "class": "text",
+      "id": "D21E65E9-8CDE-4A70-9983-EC8FB617BAEE"
+    },
+    {
+      "class": "text",
+      "id": "9000F7E8-9973-4EDB-B7B8-CC3D691BB1D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "7713FC23-2E58-414B-A9A9-B0F576502879"
+    }
+  ],
+  "name": "Settings / Components / Metric Line",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D37D3A0E-A308-4953-AE4C-63E6BDA7114A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E148F037-F53F-43E2-95F3-10033D58A8FD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D383620-1E49-4A5A-98B3-806DBDE87512",
+    "guides": [
+    ]
+  }
+}

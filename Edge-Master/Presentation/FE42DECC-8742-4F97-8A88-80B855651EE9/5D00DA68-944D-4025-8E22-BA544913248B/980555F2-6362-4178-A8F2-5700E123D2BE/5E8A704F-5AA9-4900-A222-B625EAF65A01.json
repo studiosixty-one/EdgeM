@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E8A704F-5AA9-4900-A222-B625EAF65A01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7835D375-DF29-4B95-AAF5-40F30E75E5E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE3F5097-5854-41CE-9F20-3324066E76BE",
+    "height": 10,
+    "width": 288,
+    "x": 20,
+    "y": 255
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Graph / X-Axis",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "281DB89D-4D2F-4EDB-B1F6-20F3FC20D8E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31D6881F-FD04-4166-AE65-2BEA73E25E8E",
+  "verticalSpacing": 0
+}

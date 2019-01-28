@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18B30BC3-F4E0-4B29-9CE1-BEC2B2725A77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3F4FC81-470D-4E23-A2F1-773D52BA5AC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44CF3657-90DD-4B4F-A1DC-B48C1E4022DA",
+    "height": 356,
+    "width": 278,
+    "x": 0,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "291D940E-E544-40FB-B602-EADF9135DAD3"
+    }
+  ],
+  "name": "Performance / Components / Dropdown Container",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF62D23F-B15A-41C4-AA07-8321A7732C23",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

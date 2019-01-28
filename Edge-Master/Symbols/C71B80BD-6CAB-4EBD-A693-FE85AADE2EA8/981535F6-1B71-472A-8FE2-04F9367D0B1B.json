@@ -1,0 +1,189 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2605206370353699,
+            "green": 0.2605243921279907,
+            "red": 0.260517418384552
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 15.9627
+            }
+          },
+          "kerning": 0.08
+        },
+        "length": 3,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2605206370353699,
+            "green": 0.2605243921279907,
+            "red": 0.260517418384552
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 15.9627
+            }
+          },
+          "kerning": 0.07200000000000004
+        },
+        "length": 1,
+        "location": 3
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2605206370353699,
+            "green": 0.2605243921279907,
+            "red": 0.260517418384552
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 15.9627
+            }
+          },
+          "kerning": 0.08
+        },
+        "length": 7,
+        "location": 4
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2605206370353699,
+            "green": 0.2605243921279907,
+            "red": 0.260517418384552
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 15.9627
+            }
+          },
+          "kerning": 0.07200000000000004
+        },
+        "length": 1,
+        "location": 11
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2605206370353699,
+            "green": 0.2605243921279907,
+            "red": 0.260517418384552
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SanFranciscoDisplay-Regular",
+              "size": 15.9627
+            }
+          },
+          "kerning": 0.08
+        },
+        "length": 7,
+        "location": 12
+      }
+    ],
+    "string": "SHOWING PERFORMANCE"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "981535F6-1B71-472A-8FE2-04F9367D0B1B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67E54422-CEA3-4D45-83AF-C4672506444D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F291544-6B8A-493D-9184-E1EFBF660219",
+    "height": 19,
+    "width": 177,
+    "x": 0,
+    "y": 58
+  },
+  "glyphBounds": "{{0, 4}, {176, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "SHOWING PERFORMANCE",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "617B35ED-5F93-4910-9C33-03BFBC300C35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "C971E1B4-E76B-497C-9341-BB62EB2F1ECE",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2605206370353699,
+          "green": 0.2605243921279907,
+          "red": 0.260517418384552
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SanFranciscoDisplay-Regular",
+            "size": 15.9627
+          }
+        },
+        "kerning": 0.08
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

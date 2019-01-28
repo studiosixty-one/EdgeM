@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3748BFB6-7574-4767-A330-82A99EFBF1D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37EA71E1-6DE0-4CE1-BC27-9A74A2E7B425",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "884A298C-0766-4562-99DC-10DE351A65FB",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 156.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Texaco",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F28341C-38D2-4998-A981-0A32FDCAD890",
+      "overrideName": "A75DBCFE-782B-4E5F-BB65-B8B3843B13BD_stringValue",
+      "value": "Texaco"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA3B3979-6A5F-4E9A-B2AD-7CA237CE2AFA",
+      "overrideName": "F2570557-163B-43CD-923F-9BF615458E98_symbolID",
+      "value": "F0ACFF40-3318-46A4-9CFE-F8AA7C59CFC4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "744EB614-2940-4EB1-9679-06E0107D1ECC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2102095B-6008-4AD6-A370-B1C64DA0E1A3",
+  "verticalSpacing": 0
+}

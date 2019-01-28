@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C58B3525-861F-4540-9634-502711B33AB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71CDE500-F7B2-493F-8A4A-8916ECD50199",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6672AEB2-3A0D-46CE-B5DC-1FD8E994D0F3",
+    "height": 34,
+    "width": 34,
+    "x": 1208,
+    "y": 250.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "223B107C-E532-41FD-B128-527C232A8C3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CD63DE8-17A9-4A91-883E-12362272657E"
+    }
+  ],
+  "name": "Filter Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F8206AC-C924-4A47-8487-B5DB364FE15D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+  }
+}

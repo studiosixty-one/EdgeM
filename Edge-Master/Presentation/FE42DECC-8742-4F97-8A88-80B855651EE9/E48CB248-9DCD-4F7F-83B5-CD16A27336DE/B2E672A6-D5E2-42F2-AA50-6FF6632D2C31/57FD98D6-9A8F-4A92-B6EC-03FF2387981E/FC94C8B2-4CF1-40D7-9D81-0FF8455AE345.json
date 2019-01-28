@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC94C8B2-4CF1-40D7-9D81-0FF8455AE345",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "472CC5B2-4C8C-42FA-BEC7-E10913A483B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D0DDFD2-9B08-43A4-B566-A2B57AD818ED",
+    "height": 47,
+    "width": 118,
+    "x": 0,
+    "y": 206
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Components / Tooltip Dark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E650B1AD-FCEC-4B55-A2F6-236FC481E2E3",
+      "overrideName": "C642EF18-08F3-47E6-AA6B-C41E97F008DD/B53988F5-16EB-41E9-A2DB-9CA16030E7EB_stringValue",
+      "value": "5.95 ppl"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5C0EA08-5C54-4C63-810D-DB1EB304EC20",
+      "overrideName": "DCA790F3-1472-4FB6-A67E-873481B4F2F5/ABA06C09-BEF7-423D-96F7-9E2D777BD2CE_stringValue",
+      "value": "2.2%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D87B4389-F4FF-49BD-8925-055ACF21938F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57DCA7DC-C3E6-4D98-B023-AA22AF9D43FD",
+  "verticalSpacing": 0
+}

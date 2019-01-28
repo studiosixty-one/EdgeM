@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D00DA68-944D-4025-8E22-BA544913248B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2F689C5-692F-4871-9DC5-4FC516009E74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA77C556-5750-4124-856B-2D5D1052E0BA",
+    "height": 396,
+    "width": 328,
+    "x": 942,
+    "y": 108
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9A32F2E0-E3AA-49F9-8A53-EE08413CDD87"
+    },
+    {
+      "class": "group",
+      "id": "980555F2-6362-4178-A8F2-5700E123D2BE"
+    },
+    {
+      "class": "group",
+      "id": "A0BD20DF-598F-4384-8533-98DB55FBA401"
+    }
+  ],
+  "name": "Gross Profit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E45FED2-7840-439F-AE27-7CDFADCEC84A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

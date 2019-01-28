@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "98AC8BC7-4D00-4A17-9B3A-9249A3750AB3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 101,
+  "clippingMaskMode": 0,
+  "do_objectID": "3503AEA4-DBDC-4C77-B269-7795D2B1B75D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B91A9482-42EB-4C43-BFFA-C47DB057700F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "392D581C-4818-4BF4-80F1-B9ECE94E50AE",
+    "height": 13,
+    "width": 27,
+    "x": 749,
+    "y": 370
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7EDF0518-B5B4-4DD9-B007-4F2D116AA5AF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E401B635-F981-42E6-A856-D2C27887A73F"
+    }
+  ],
+  "name": "Performance / Icons / Only",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "158711A2-E8CA-40CD-82ED-816F7BA79153",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0048661D-4285-43B2-B55F-4EFFFADE6FC4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BFBE5C07-96CE-4853-A4E9-B61D80C52C21",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BD04658-C831-41B8-932B-92D1FE480BEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61F72970-5C67-46AA-B3BA-65BD72C0132F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22168FBE-646B-4FDC-A35F-4E020FB119CE",
+    "height": 19,
+    "width": 29,
+    "x": 79,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Icons / Performance Up",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABA06C09-BEF7-423D-96F7-9E2D777BD2CE_stringValue",
+      "value": "2.2%"
+    }
+  ],
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C03E73F1-43E2-485C-9BAE-9FF58533BF14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "08CD45F2-B786-4FF0-BBAD-C7DD99E5C08E",
+  "verticalSpacing": 0
+}

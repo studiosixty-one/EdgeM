@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "114FD100-035A-4C73-A728-A5155B045D03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F125AE2-AA6B-4850-9921-07A175BEDDF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73239063-8962-401D-9E01-AB32003DA52A",
+    "height": 24,
+    "width": 744,
+    "x": 259,
+    "y": 326
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "60F4DAA9-5355-430C-8873-7A1C345EE81A"
+    },
+    {
+      "class": "group",
+      "id": "737B10F3-EB0C-4388-81EC-609CFB87C733"
+    }
+  ],
+  "name": "Reporting area",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCE73246-A112-4A67-B487-D93CF9CCF1B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "DF3FC451-5384-4973-AD96-954ACC9FB607",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "87FEE66B-D45F-4093-AEA9-4565A0607505",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F9AC223-BF8B-489A-BAE2-4699FA51DD80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFB3745C-E6F2-4723-954D-D3C326AEA493",
+    "height": 960,
+    "width": 1300,
+    "x": -1304,
+    "y": 363
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "FEEC0D3B-2112-446A-9A4C-D35510B50447",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98CD2B5A-EB19-4AAA-835E-E5EC67330A32",
+    "guides": [
+      1071,
+      465,
+      616,
+      768,
+      919,
+      1222,
+      314,
+      279,
+      1057,
+      1034
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B5C34177-5058-4257-907A-E8D3D0279D1B"
+    },
+    {
+      "class": "group",
+      "id": "30BCC054-1F0A-48CD-8875-DC6580B063DD"
+    },
+    {
+      "class": "group",
+      "id": "D2353F5E-4704-4104-83F5-D82D2D518D5A"
+    },
+    {
+      "class": "group",
+      "id": "6415B66F-D459-4255-8ADD-9ED7B68EED82"
+    },
+    {
+      "class": "rectangle",
+      "id": "80CE3608-905A-4CEC-9FA7-E0E8D3077EE3"
+    },
+    {
+      "class": "group",
+      "id": "A82F216B-6507-4F80-9366-B8FE08142B9D"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "8DBB641D-4FA3-4739-8CAF-B893C0D81CCF"
+    },
+    {
+      "class": "group",
+      "id": "60D2D082-7146-44C0-895A-880BAD023509"
+    },
+    {
+      "class": "group",
+      "id": "D809F3C1-1868-4C0F-9799-E6B8AB3A2791"
+    },
+    {
+      "class": "group",
+      "id": "483856B9-953D-4EF8-8032-4147472B702B"
+    },
+    {
+      "class": "group",
+      "id": "3E30F00F-47FA-4471-AC25-6F82B9EFE364"
+    },
+    {
+      "class": "group",
+      "id": "9C07B614-312C-4B7F-98D4-29E2A33F4CBB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "6312D775-0011-4AB7-9083-4CBA0CB460FF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Performance Reporting - Screen (13) Copy 10",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81934492-5225-47C6-8151-7B9E406ECC25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9479D78-3853-4546-9B56-EE1743D9A34F",
+    "guides": [
+      337
+    ]
+  }
+}

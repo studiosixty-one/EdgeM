@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "559F1F9D-35C7-4EDB-BADE-0DC00DF663C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "627E1751-0DE4-4377-ADCB-0C02C3E1D60E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C1D68B2-C45E-4C03-9D5F-3A28BF9F3DA1",
+    "height": 396,
+    "width": 328,
+    "x": 226,
+    "y": 108
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C53973B9-2EB5-45D8-9518-090F09E4AAB9"
+    },
+    {
+      "class": "group",
+      "id": "A72D70B3-1464-481D-A33F-E47C758AFAD7"
+    },
+    {
+      "class": "group",
+      "id": "AD11FD06-9407-4E18-A393-45A1F629E45E"
+    }
+  ],
+  "name": "Retail Volume",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F51F6174-DDCA-4B80-A0D3-9E4898B3A1AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8A9E677-4B6A-44EA-B418-84655F7EE508",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5587D99C-62F8-487E-AAB2-4A23C55F95C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4ED7102-3DAD-409E-B54F-73BB3ADDDA4A",
+    "height": 103,
+    "width": 96,
+    "x": 513,
+    "y": 461
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Competitor Pricing / Tooltip / Combined Map Tooltip Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "862A4F48-EF94-4915-A8F8-E92D80235A07",
+      "overrideName": "423DB125-F048-4D25-9F23-70618C792886_stringValue",
+      "value": "Amersham"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4EF920CE-10CA-4561-93B2-7F8AF5FA83A6",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/2105A900-51EC-4224-8373-1053BB020BF4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C3624A4-4F69-426F-A485-CE35F8C22FB3",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/EA749535-BB4E-4690-BB6B-48E2F91F6785_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DED1B42-3277-4FCE-871E-13860DCDEB8A",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/AF116176-155E-42DA-B5EB-4B4FF152D1CE/FA731AFF-1A3C-4FA2-943F-076236485C06_layerStyle",
+      "value": "28A7DBAE-8B7D-448A-9F73-1452C1C39590"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "220006B2-078C-4F6A-84A8-AC974BB59822",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A9709E0-A590-4121-9B91-2DF63B91690C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72190E5-D47C-4E19-95DE-C42F4A6117C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5112A2BC-A41F-4A89-A054-40836CAB2BB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D3193CA-462B-413C-8A9C-0A331F8B0022",
+    "height": 31,
+    "width": 288,
+    "x": 20,
+    "y": 169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station One",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D08506E0-8986-409F-AC8A-45B91E0816A5",
+      "overrideName": "DD1D510A-6618-4588-AFEE-5DD2A7756068/FD7CB97E-1718-4FB5-A0FB-434B7EED3540_stringValue",
+      "value": "10%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDEAD07D-3990-42AF-A9B5-F30E4F9D3EEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6EFAE31-7B51-42A2-9A08-FF3E763A6F1E",
+  "verticalSpacing": 0
+}

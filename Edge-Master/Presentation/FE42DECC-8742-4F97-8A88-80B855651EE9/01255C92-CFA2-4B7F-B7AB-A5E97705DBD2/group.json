@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01255C92-CFA2-4B7F-B7AB-A5E97705DBD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E595372-6AAA-4D8A-9932-2EB5B71EA601",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C934FA52-0D59-43A8-83CC-7A23F2A44E6D",
+    "height": 396,
+    "width": 328,
+    "x": 584,
+    "y": 534
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "89D30E0E-647C-4FD6-9E2E-93EA56C6E5B9"
+    },
+    {
+      "class": "text",
+      "id": "1090403A-677B-49C2-A90E-FD4DE1E0644F"
+    },
+    {
+      "class": "text",
+      "id": "FA88DD20-9E02-4C81-99F1-4D4B2D1892A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "8CC2B838-AFBD-4424-AC1D-CF28EBD4460E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77A3FD43-06E0-4197-A785-4B3567F99896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A72190E5-D47C-4E19-95DE-C42F4A6117C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21B0D6CC-A399-45F9-B66F-4EF93CCF743B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E148318-22FF-4E90-B6B2-BF50C1F1F0BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D941B05F-D985-4D19-9C82-CD2ED29CDCED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E03677C2-F4C7-4A3C-BBAE-A97E554BD328"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F6E95A3-6310-45CF-8BD7-4C6EFC617FBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44DCCE2F-FA2B-49FC-8701-C835C79C9505"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4A0326F-9063-4757-9823-24B7D29CD361"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF26A10F-8FE9-4241-9C76-2AE3B35B8C52"
+    }
+  ],
+  "name": "Reporting By Exception",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A461648-B043-42A2-85AB-A11A922B2A7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

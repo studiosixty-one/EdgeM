@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFF5811C-5E82-4292-9CF6-28E03C94E51C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B900CE21-1E66-474C-BC16-3E01150F9A1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFF3E309-DBC5-48F9-B6DB-15D8383066FC",
+    "height": 50,
+    "width": 192,
+    "x": 0,
+    "y": 7.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "North West",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFF56DC1-ED04-410E-89C5-876B1170303F",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Fuel Supplier"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E654394B-9C1D-44FC-AA01-78EAE9037BEB",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7_symbolID",
+      "value": "4C1DA78D-6F59-4EFA-93BB-C78EF4841EBD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B0913E7-DCE4-485C-8983-34CF2E8C1796",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

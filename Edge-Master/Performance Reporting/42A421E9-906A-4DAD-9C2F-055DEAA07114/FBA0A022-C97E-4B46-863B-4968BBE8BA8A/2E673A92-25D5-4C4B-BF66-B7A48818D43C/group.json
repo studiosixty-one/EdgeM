@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E673A92-25D5-4C4B-BF66-B7A48818D43C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2A329F9-4C01-4B9F-B6AD-B0ED20F6F842",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E5002D6-0ED8-42C3-9AAB-D486A79F0184",
+    "height": 352,
+    "width": 908,
+    "x": 35,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7EE4113E-2205-4250-B5DC-25356F6479AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "0268085A-2184-47C6-BC5D-8860FFAD3D40"
+    },
+    {
+      "class": "shapePath",
+      "id": "21D7D967-AC46-4A64-8BD3-BDE2F14127DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "09537FC8-1A1D-466E-9279-FC5C12D78BC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "F96B8167-7623-46AF-9C86-F9ABD02D926D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4E53F67-13CC-43D0-9108-3E8EE9392F22"
+    },
+    {
+      "class": "shapePath",
+      "id": "C247A4A0-D397-43A4-B435-B226B8FC3E30"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DFF6B49-3D87-4512-AB99-0CB4F444ACFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "4971A183-9690-48CB-BF22-744B99AE5729"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FA8CB32-50C5-4E85-BFFA-4EEDC9239A53"
+    }
+  ],
+  "name": "Graph Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D1813FF-3B30-428F-80A9-403896C6E2A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

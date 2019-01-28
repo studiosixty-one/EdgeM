@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F66ACCB-14F9-4259-86C3-EAC5637660B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C743EEA-AC15-4F08-B3DB-052C4D36DB27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C97943BD-63EB-4A78-BDE4-8CA5B2EBFADD",
+    "height": 210,
+    "width": 29,
+    "x": 20,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Graph / Y-Axis",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BB33C0A-9992-4400-979B-3EB697CB442B",
+      "overrideName": "F3C63D97-5DA6-42FE-A488-771F30715BD7_stringValue",
+      "value": "106.07"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47777A0D-A23E-4A1A-80A6-B7419125FB32",
+      "overrideName": "A1EA114B-207D-4E59-8A57-00EB23D5EE03_stringValue",
+      "value": "106.87"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6919F2E4-68B4-4A66-A0C6-67E0E28CDD56",
+      "overrideName": "A1C58AD8-4D0D-4AA8-865B-82598C4CAFD9_stringValue",
+      "value": "107.67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB609CF6-255C-4A0A-8AA9-B9A3B01F5AB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9395CC86-EDBF-408E-A701-404E6034CF6A",
+  "verticalSpacing": 0
+}

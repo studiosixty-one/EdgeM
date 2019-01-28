@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21617FA3-0FEA-4303-99D5-684A3C47659D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "642549DD-25A1-45AF-B4EC-040BB53E0C2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1889522F-419B-47F8-9AAD-A58301B4E97B",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 420
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1FB7F38A-0C40-4D8A-BEB7-FFDA09BF47FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B9CD83D-88AA-49FA-BE49-BDA5B3B15F30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B758C8A-221D-430B-B6E8-63AC94B13E32"
+    }
+  ],
+  "name": "Finchley",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF95B209-1CDC-42F4-85EF-7DC9BEA0E83F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

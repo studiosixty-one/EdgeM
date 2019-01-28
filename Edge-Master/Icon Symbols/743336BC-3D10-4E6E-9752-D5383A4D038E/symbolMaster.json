@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7CCBF571-89EB-4947-B259-7C47530C9B9C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 92,
+  "clippingMaskMode": 0,
+  "do_objectID": "743336BC-3D10-4E6E-9752-D5383A4D038E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46900D65-115E-44AB-A15E-140FB97BDDEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7954C49A-6BB2-4ABF-BF5B-6D810BF01CCF",
+    "height": 10,
+    "width": 10,
+    "x": 648,
+    "y": 300
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "257E5ADF-B7A9-4022-BD80-898CB605D1F4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "546F44EB-F064-4F08-A979-A579CC627B31"
+    }
+  ],
+  "name": "Icons / Settings Menu / What's Coming",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDF0A016-D45D-449F-9630-0144977F8ED4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23FE112E-E129-42BD-9E28-F81C20231A23",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "88EC313F-3053-4CC9-AC11-0399C5732B0A",
+    "guides": [
+    ]
+  }
+}

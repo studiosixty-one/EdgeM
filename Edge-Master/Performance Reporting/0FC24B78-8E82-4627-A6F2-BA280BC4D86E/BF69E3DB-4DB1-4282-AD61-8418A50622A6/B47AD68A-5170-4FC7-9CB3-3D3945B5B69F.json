@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B47AD68A-5170-4FC7-9CB3-3D3945B5B69F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DFAB11A-C70A-4787-AEA1-E61591015A5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8FFDEDFA-D464-4676-986D-E0FA8EAF2BF5",
+    "height": 20,
+    "width": 20,
+    "x": 2.5,
+    "y": 2
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Icons / Station_BP",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "34D0C26A-9B96-49DA-925C-F8AFA9863659",
+      "opacity": 0.3976236979166667
+    },
+    "do_objectID": "50FC600A-37BC-4DFA-B742-F28E1AA7DB71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0ACFF40-3318-46A4-9CFE-F8AA7C59CFC4",
+  "verticalSpacing": 0
+}

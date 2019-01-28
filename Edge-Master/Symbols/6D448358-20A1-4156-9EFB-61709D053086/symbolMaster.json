@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "924BAC60-2371-41DE-8381-39FE359EDAE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 6438,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D448358-20A1-4156-9EFB-61709D053086",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A185B92A-6485-4171-A312-DDE5CEECE53A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C378B4D1-B272-4F22-B7BD-0C4CCDEA8089",
+    "height": 20,
+    "width": 20,
+    "x": 1879,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9FFD523-1980-42F4-81BB-01BA48E44AD2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "54C76479-85BC-4F5E-8626-0DFD95AD71CC"
+    }
+  ],
+  "name": "Perforamance Reporting / Icons / View / Pie",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13BD4D4F-2159-465E-940F-E74F912C01AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A857666-82F3-4558-BD6E-DE58483BEB8F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "87A6C373-12C4-489C-995A-5FE643EED247",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "26173462-D533-4BF2-92D7-1185DA2EE75E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 408,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile Base",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21D588A7-C9E2-4D8C-9EB1-5DAF3D3C3B29",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2_symbolID",
+      "value": "F9F6028B-1C4C-4E07-BCE5-60BCFED9B2E5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92DBECB1-F6C6-4E41-AF6B-EB835994448F",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2/FD2D08AA-7623-4EF0-987F-58DC9C08FF94_stringValue",
+      "value": "Net Margin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66992466-3E71-4A28-9353-ACBF685CC20C",
+      "overrideName": "A234CEA2-C1C0-4BCB-9C16-1ED75C812EF4_symbolID",
+      "value": "912013F6-A521-4372-B72B-523E92901572"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6529FABC-5725-43C5-9BE4-4F71B38EA729",
+  "verticalSpacing": 0
+}

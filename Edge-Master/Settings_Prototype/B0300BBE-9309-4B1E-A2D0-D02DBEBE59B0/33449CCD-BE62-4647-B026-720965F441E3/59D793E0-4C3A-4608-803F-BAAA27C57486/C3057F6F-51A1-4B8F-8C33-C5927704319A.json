@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3057F6F-51A1-4B8F-8C33-C5927704319A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F5824B8-8265-4254-8D92-0A716FF9353D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "404E13D9-9310-4120-96CF-BD92088C6C92",
+    "height": 38,
+    "width": 172,
+    "x": 571,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Role",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5634D9E2-FB82-46CC-94BB-3C3EB1D61CF6",
+      "overrideName": "EC3125CE-08E1-4288-B278-5A8604EE0675_stringValue",
+      "value": "Select Role"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EC1EB43-C785-409E-972A-036048D05A60",
+      "overrideName": "013DF427-F43A-40AD-90EE-D0919956FB40_layerStyle",
+      "value": "76F51BE6-F8F5-4783-AF6B-F9E4704D48CC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23FAC881-C62C-44AB-BDC1-44CCC97980CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48A7A2BC-17AF-4322-9062-0EE54101D4C6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5E29C9B5-DCB3-4D15-8C52-838294B8CFAE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 905,
+  "clippingMaskMode": 0,
+  "do_objectID": "B76C35B7-CBA0-4A4E-AF57-643747825104",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1601E949-AC7F-47D0-8EE4-7E388CDE55B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FC66A37-358C-4777-AA2F-72D4B1C842D5",
+    "height": 44,
+    "width": 44,
+    "x": 117,
+    "y": 42
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4A44A32-F4BD-4BBE-B414-34C33A469FE9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99F7EDA2-0877-466B-ACB8-78C82CD98B46"
+    }
+  ],
+  "name": "Performance / Icons / Grade Selector Active",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7C59C48-CED0-43B6-B924-8E66307DC877",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F965A53-58E4-43BD-892C-74089A815777",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98F23A65-2860-4187-BFAB-101224FC72F7",
+    "guides": [
+    ]
+  }
+}

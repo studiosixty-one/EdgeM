@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B88EAE80-A082-4A12-9BF9-15D4CCEA2E2D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1487,
+  "clippingMaskMode": 0,
+  "do_objectID": "82223A1B-D320-487F-A6AF-A5D1999B8781",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B5A7D40-8B54-43EE-9E66-B0A586BB91B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12BBDFF2-D31D-45B3-8A8F-D922E1FB5ABA",
+    "height": 80,
+    "width": 228,
+    "x": 102,
+    "y": 51
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AF45AFAE-75D2-4C22-A10F-F2522668DB75",
+    "guides": [
+      203,
+      194,
+      183,
+      173
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B323F271-7209-4720-828B-CE0FFE54480D"
+    },
+    {
+      "class": "text",
+      "id": "836994C7-F74E-417F-8EA0-215875D89EE2"
+    },
+    {
+      "class": "text",
+      "id": "9E25A908-9E39-410F-83E2-DF51B0CACF05"
+    },
+    {
+      "class": "text",
+      "id": "F40E8465-9FA7-42D1-A2F7-394A3E4CA6B3"
+    },
+    {
+      "class": "text",
+      "id": "3C29E777-D8FE-47D4-B96B-8A53DFA73E8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A00AA09-513A-42E0-B090-B56DF2029E6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9CFC5FE-0CCF-4EFC-92D0-FB10E80228BB"
+    }
+  ],
+  "name": "Stations / Components / Metric Percentage Change",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0924760B-0DE6-4B2D-A820-508B78998DC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC39024D-35C6-482B-BD1E-29205877F96B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49B53055-46D4-4088-B815-69306A9C1EC8",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9D7B1658-583D-4212-9725-DC767EFBE908",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 343,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB5A7F45-8D58-4DA0-B3D6-223FED91A60E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "997823A6-8535-49E2-9DD2-B232EB0AE216",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92CDFE16-21E9-4EFA-BFF1-1711A9C4464A",
+    "height": 85,
+    "width": 371,
+    "x": 1297,
+    "y": 163
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D5DBD77C-69F2-478F-9ACF-C2AABA69ED43",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E3336121-EAAE-400F-BB40-93A26CC5DF5A"
+    }
+  ],
+  "name": "Settings / Components / Metric Description",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E1B1C7F-5CFA-465C-AFA3-71D6A5929619",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3AFF6587-3216-4881-9143-766EAE312AA8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7CDF23BC-EF33-435D-A965-CB2714CE3083",
+    "guides": [
+    ]
+  }
+}

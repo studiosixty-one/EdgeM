@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D09FA9FA-DE25-4B0D-A458-44C8FA4C6884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5B6EEE2-EBE5-4150-A569-993E6BEA3A22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1730828-5B14-4DDC-816B-E85B2997E051",
+    "height": 345,
+    "width": 195,
+    "x": 0,
+    "y": 288
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Left / Components / Station List",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F79CE45-A9D8-486A-AA9E-630F59488180",
+      "overrideName": "3D1196E2-2358-4011-8403-78E9B7EDE322_stringValue",
+      "value": "View all stations"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "295DF474-76B0-4959-A81F-B19A62171C39",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C19D7497-2208-49B6-BADE-57218EF9FBB4",
+  "verticalSpacing": 0
+}

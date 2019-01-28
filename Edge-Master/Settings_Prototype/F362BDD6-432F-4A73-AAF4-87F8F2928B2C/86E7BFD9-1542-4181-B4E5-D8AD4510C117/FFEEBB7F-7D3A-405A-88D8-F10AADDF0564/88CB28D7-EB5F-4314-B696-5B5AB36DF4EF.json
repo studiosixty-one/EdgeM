@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88CB28D7-EB5F-4314-B696-5B5AB36DF4EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB50E2F4-AD50-4AE1-8CC3-972441988F92",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "416373E6-5C7F-4659-9580-44E08C2CDE38",
+    "height": 38,
+    "width": 172,
+    "x": 753,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5634D9E2-FB82-46CC-94BB-3C3EB1D61CF6",
+      "overrideName": "EC3125CE-08E1-4288-B278-5A8604EE0675_stringValue",
+      "value": "Select Stations"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EC1EB43-C785-409E-972A-036048D05A60",
+      "overrideName": "013DF427-F43A-40AD-90EE-D0919956FB40_layerStyle",
+      "value": "76F51BE6-F8F5-4783-AF6B-F9E4704D48CC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D37EE975-5305-4F5F-8E17-7E627B945E10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48A7A2BC-17AF-4322-9062-0EE54101D4C6",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "9BF92C35-D5EB-4CDA-86DE-4A2673055963",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

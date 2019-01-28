@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53B51D3E-9B27-46C5-A2F1-AE9BA70DA003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF2FD156-ACB2-4905-BF04-730603CD5AC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DBB0FCB-F7ED-476D-A26F-02C0668C86A2",
+    "height": 640,
+    "width": 1043,
+    "x": 227,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "166B5E1C-47B0-4C26-8E23-A8E936186F0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA62A2CE-D1F3-41CB-A48C-D49C11813222"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B8F34F1-C577-472B-95DF-3F5CBB7C380F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "393D6842-2B0E-4B14-9036-00A291800FA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFCEAFFD-9BED-47E4-B3E0-74E504B40DE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72513ACE-0D26-4FFD-B886-25B8C0E39367"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28CB135D-3AFA-4E5B-9394-9D6384D8336B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A73265C7-451F-4A5F-81CD-5874C075AF95"
+    },
+    {
+      "class": "group",
+      "id": "25BE89F6-E7EB-4400-AC0A-E25410595F98"
+    }
+  ],
+  "name": "Stations List",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "374466EE-94AF-4893-A702-0D8A0534D842",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

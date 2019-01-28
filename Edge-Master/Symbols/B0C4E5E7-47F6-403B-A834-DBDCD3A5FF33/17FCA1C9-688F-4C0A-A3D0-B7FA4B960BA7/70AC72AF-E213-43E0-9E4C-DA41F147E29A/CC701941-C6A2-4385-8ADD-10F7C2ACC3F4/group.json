@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC701941-C6A2-4385-8ADD-10F7C2ACC3F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEEE28A7-E36E-42DE-97DD-600E089BC016",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "578C8199-3ADA-41C3-894E-ACAF7CCDF80B",
+    "height": 37,
+    "width": 37,
+    "x": 276.6046511627901,
+    "y": 45.55555555555554
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D6902916-AD32-4DDF-A192-CDB9B8A78542"
+    }
+  ],
+  "name": "Competitor Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3597968-8A34-43A7-888E-6E355C8FC6AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3008378623188406,
+          "blue": 0.2431372549019608,
+          "green": 0.2666666666666667,
+          "red": 0.7803921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

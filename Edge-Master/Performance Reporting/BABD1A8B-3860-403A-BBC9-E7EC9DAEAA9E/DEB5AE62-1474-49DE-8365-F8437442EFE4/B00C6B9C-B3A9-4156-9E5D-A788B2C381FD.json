@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B00C6B9C-B3A9-4156-9E5D-A788B2C381FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B94C5E2-8E6D-42C8-8843-74D67E737BEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5779E973-8840-4F1F-B06F-17A31B23CC81",
+    "height": 68,
+    "width": 250,
+    "x": 732,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Date selection",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2DF270C-8BA6-4398-80F5-7B8F9B20532E",
+      "overrideName": "43DA9CB3-3BA5-4A75-9142-A8B97E32C739_stringValue",
+      "value": "Select date"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8B1B52C-FD29-494C-A731-400CE86F8938",
+      "overrideName": "612D069D-AE70-473A-88C1-63DC879C21AD_symbolID",
+      "value": "7F2ED547-9AFD-4752-B69B-F5D8A9CE1B43"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F98EFB28-7E21-4545-81C3-A1EBC86100FB",
+      "overrideName": "612D069D-AE70-473A-88C1-63DC879C21AD/D3261E4E-AE6E-46A6-95E1-8B61E15EED05_layerStyle",
+      "value": "9D8CDEF7-E615-456C-BD35-49FEA18AC965"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B92077F5-D3BC-41EF-B8EC-91443A209CE4",
+      "overrideName": "612D069D-AE70-473A-88C1-63DC879C21AD/A2E4332E-B18A-4D81-ABB7-2B6EA484EEF0_stringValue",
+      "value": "Last 7 days"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "585B51B1-8DCB-4A02-9198-CEF670D8506F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EAE4B25-CFB2-4C00-B41C-BA68C5366886",
+  "verticalSpacing": 0
+}

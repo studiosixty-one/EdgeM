@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "510250AD-1B27-4557-BFCD-02C08716EE64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E63DB2C5-3177-4EBA-89E0-CF130988FD8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEFDE938-70F1-4AD6-AB92-D39C753B1FCF",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 225
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Brunthorpe",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341C3C8A-C8DE-4A8F-BF16-E65400DCDBFA",
+      "overrideName": "38758B10-4EE2-498C-A647-9F5BD9FF722B_stringValue",
+      "value": "Brunthorpe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FC29F28-4274-4148-8A32-C161FAD31189",
+      "overrideName": "C0A58414-2F7A-42AC-B466-B29491A52BD2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD094280-0554-489A-98E4-17FC467F8D1F",
+      "overrideName": "0D17E918-8A33-4873-969D-861F9A1C698C/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "88461AF9-F42E-41BD-8752-BD349595EA72"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55963743-E62D-43C6-8B58-5972777515D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "364DCF69-F0BC-4762-9791-6753824214CC",
+  "verticalSpacing": 0
+}

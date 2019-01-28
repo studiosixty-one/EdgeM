@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BD4199E5-FF0B-4EA8-BC67-C88CBC28CD75",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 102,
+  "clippingMaskMode": 0,
+  "do_objectID": "01C18FBF-9D56-49D8-AA0A-92B8AA564A02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D49A1F4-6574-4291-AC9A-9B0A723E49C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0506CC8E-496F-4810-B003-BF285E4853DC",
+    "height": 10,
+    "width": 10,
+    "x": 0,
+    "y": 180
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70D370DE-B1A8-4A6E-8522-3CBF403A4E51",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FF0E60F6-0B3D-43ED-91B6-7738B52E98A5"
+    }
+  ],
+  "name": "Icons / Arrow / ⬇️ Down",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76366415-B426-431A-99B3-BA3FFE291677",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D65DC3B-7C02-432C-A3CF-4081BBDD9BA7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "171DC682-37E6-4586-97C4-C90005D1D26D",
+    "guides": [
+    ]
+  }
+}

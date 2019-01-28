@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "57CBACE0-AD42-4182-8BD2-7D223BA63122",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 574,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCEFA548-4140-4B5E-8174-841EAA44D9EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EDE5168-EE1E-4452-8EEA-8190257AA45E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0500719-35EE-43C7-9F91-B29070870F9C",
+    "height": 50,
+    "width": 50,
+    "x": -381,
+    "y": -260
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "697053EB-09AF-458C-94C5-8AFA93BAD6A2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26C6A1D3-74F5-4EDD-9ECC-6578DCA2E30B"
+    }
+  ],
+  "name": "Stations / Icons / Station_SHE",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E95E058-54B1-4F80-ADD1-30B3ED6AC5C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "505FBA12-BEEA-48C0-B0D8-07E623F5034D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77364EDA-1871-4466-A430-7225CF1A2F96",
+    "guides": [
+    ]
+  }
+}

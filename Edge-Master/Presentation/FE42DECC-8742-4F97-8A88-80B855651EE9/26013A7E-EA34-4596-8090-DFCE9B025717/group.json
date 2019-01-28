@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "26013A7E-EA34-4596-8090-DFCE9B025717",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87610AD9-DFB9-4AE9-A76D-4D196975C400",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9269A13B-44B9-4211-B6CC-BD1DF2651938",
+    "height": 396,
+    "width": 328,
+    "x": 942,
+    "y": 534
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EA4816D8-6EB1-49E1-B620-42B69DABC020"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "805A98D4-850D-410E-A30B-11E6222161EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F66ACCB-14F9-4259-86C3-EAC5637660B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D87B2257-8AF4-4F6B-8FD0-2AF1AF539708"
+    },
+    {
+      "class": "group",
+      "id": "C28B5007-8D0A-46FD-88CB-F93CBFECB216"
+    },
+    {
+      "class": "group",
+      "id": "7D73D415-BE07-4C36-B79F-758432D38150"
+    }
+  ],
+  "name": "Platts Pricing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8FD673D-05BC-4A5B-A0C2-9E14BE3FCE82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

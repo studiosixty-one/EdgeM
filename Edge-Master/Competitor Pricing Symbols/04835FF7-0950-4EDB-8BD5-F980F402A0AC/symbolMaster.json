@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "59AEE4EA-D414-42A0-A48C-021AB9E54EA4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 28,
+  "clippingMaskMode": 0,
+  "do_objectID": "04835FF7-0950-4EDB-8BD5-F980F402A0AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CACFAC67-5037-4E3B-9099-0EDABEC97A7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E778CDD-C190-4E31-A431-DA16AB266831",
+    "height": 24,
+    "width": 24,
+    "x": 1062,
+    "y": 308
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FA82D329-0C83-41E6-BE31-5AA365FBE748",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9BC26EDD-864F-4F3E-876A-1E457A2FE04A"
+    }
+  ],
+  "name": "Competitor Pricing / Icons / Selected Radio",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDB7F500-6733-46CC-80C5-53AB93828FA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9FE9301D-BAA9-4404-AF23-66A4E2ACB829",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "23A21990-658A-448D-8B01-B7A70C171D26",
+    "guides": [
+    ]
+  }
+}

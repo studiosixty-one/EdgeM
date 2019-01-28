@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D745EDF0-0ADE-490F-A811-A702725597EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA3CECDE-B178-4CAF-9A87-7DBC52579CEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB1BEEE9-51AD-41EC-A2B6-6FBD26408F5F",
+    "height": 103,
+    "width": 96,
+    "x": 1059,
+    "y": 461
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Competitor Pricing / Tooltip / Combined Map Tooltip Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "862A4F48-EF94-4915-A8F8-E92D80235A07",
+      "overrideName": "423DB125-F048-4D25-9F23-70618C792886_stringValue",
+      "value": "Amersham"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FB3621C-17F0-4C7A-84FC-0D4B28125461",
+      "overrideName": "EF9567D7-0525-4B4C-94C8-98CD36156034_symbolID",
+      "value": "6FDD0FA2-33C0-455B-AAF5-E55126F7428F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97C4A2E6-DA67-4D97-9063-4F75C9638F04",
+      "overrideName": "2F8F3726-B90C-46CA-86C0-6FF0E9C70492/18A62639-B5A8-40BD-BA4B-866D8D9FB3A3_symbolID",
+      "value": "B5B34746-4B76-4E8A-A123-F699FB7689DD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C097630-D3AB-41AC-A46C-344CEF223F41",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/2105A900-51EC-4224-8373-1053BB020BF4/6262601F-386D-4C92-9B4D-68D34CFEAEBF_layerStyle",
+      "value": "189E5068-6241-40A8-AF4F-B13380D38C64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D221531-17D0-47DC-85D2-D1A5B3252366",
+      "overrideName": "2F8F3726-B90C-46CA-86C0-6FF0E9C70492/B7582C86-DB1E-471E-8625-6C5C280C733C_layerStyle",
+      "value": "BC8FBC6B-91DF-4E27-A1B9-B26B4BE84D16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "458EC1E7-37F2-4013-86D1-8B4208025085",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/AF116176-155E-42DA-B5EB-4B4FF152D1CE/FA731AFF-1A3C-4FA2-943F-076236485C06_layerStyle",
+      "value": "10F3DEF0-2E12-4D7F-9682-61B9CC6C1733"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D67F6C7C-809F-45BB-A9BC-12CBDDF29F52",
+      "overrideName": "D17688E1-B2EF-4059-B3E5-1D7E4071819F/0DBF4AA1-3EE9-4D66-A1BE-2171CB00FC14_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "644BA49C-4EA1-4B8A-9FD5-DB00AABF3BC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A9709E0-A590-4121-9B91-2DF63B91690C",
+  "verticalSpacing": 0
+}

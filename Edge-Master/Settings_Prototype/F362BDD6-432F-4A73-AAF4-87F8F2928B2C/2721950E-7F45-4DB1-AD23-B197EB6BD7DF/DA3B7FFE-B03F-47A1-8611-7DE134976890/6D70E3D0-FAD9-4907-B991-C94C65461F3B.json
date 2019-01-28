@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D70E3D0-FAD9-4907-B991-C94C65461F3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6EEFB3A-B51D-477D-8088-E7D3C12E2C45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45A16227-96A5-4A49-964D-9D283EB8E2AE",
+    "height": 50,
+    "width": 273,
+    "x": 0,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cheshire",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3DBDF65-FEB0-449B-8276-4414D6399833",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7/959C9DEE-64DE-4444-81FE-CFAD1F2F5217_layerStyle",
+      "value": "E2BA6D73-FC11-4FCE-AB0E-C0F8321F86A7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89AF07F3-8896-44F5-BECD-162A3F168E58",
+      "overrideName": "A8D2D4C6-EF67-4397-8719-9D871E5753F7/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "189E5068-6241-40A8-AF4F-B13380D38C64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D74285A4-6331-465E-B09F-9F1BF55FDCC4",
+      "overrideName": "04F135E6-FEE6-42BE-9920-0FC9C6F67123_stringValue",
+      "value": "Cheshire"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0766890-8D36-4EDE-8C24-04CE9B67B28F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10751C59-F7D4-423E-9D74-377F88CFC3B9",
+  "verticalSpacing": 0
+}

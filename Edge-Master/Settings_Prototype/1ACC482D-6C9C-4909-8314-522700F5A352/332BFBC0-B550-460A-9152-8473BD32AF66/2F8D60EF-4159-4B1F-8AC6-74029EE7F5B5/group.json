@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F8D60EF-4159-4B1F-8AC6-74029EE7F5B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "047516B0-FA91-4AAD-ACAE-F78E87B5D133",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A37BFE5C-2A3D-46C2-B470-1F92DD70CDE8",
+    "height": 37,
+    "width": 333,
+    "x": 592,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F32A3696-9103-4443-9145-4912E9435C39"
+    },
+    {
+      "class": "text",
+      "id": "DD86DEB0-B9FF-46CF-9D12-985262F3B21B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A4E665B-1EDE-440C-8EA0-80DFD687FFB0"
+    }
+  ],
+  "name": "Page & Invite Control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67CBBDBC-9682-4BD3-9B22-E14F5F863E63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

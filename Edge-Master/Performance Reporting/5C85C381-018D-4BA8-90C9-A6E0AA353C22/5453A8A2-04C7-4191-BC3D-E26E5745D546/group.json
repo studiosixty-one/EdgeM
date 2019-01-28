@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5453A8A2-04C7-4191-BC3D-E26E5745D546",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA33D6C5-834C-4587-A7DA-FF7CDA741007",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A04B4193-0F6D-49F5-B4DF-C0D8B79F8A1F",
+    "height": 30,
+    "width": 86,
+    "x": 708,
+    "y": 870
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "66B1D2DF-3210-4DF0-840D-247F68E38CC7"
+    },
+    {
+      "class": "group",
+      "id": "578315DF-DB29-4A16-96EB-AFE7C5EC3E0D"
+    }
+  ],
+  "name": "Legend",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C420CA9C-B91C-44FB-B622-B873A76551FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

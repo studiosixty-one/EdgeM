@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BBD64AA-E788-40A5-9FCF-0A5A537D3475",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D08CFE56-007F-4F77-96C5-0E40CBE4982E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D6A487B-B3C1-44A5-82DD-57A8F6D1CCB6",
+    "height": 206,
+    "width": 950,
+    "x": 330,
+    "y": 149
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C86BF43D-977E-4F9C-AD8E-68CD619F11BF"
+    },
+    {
+      "class": "group",
+      "id": "02A5F23F-D451-445A-8C47-BAC15EB98DCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA9FF426-7E04-4652-B79C-7FBACBF119CD"
+    }
+  ],
+  "name": "User Rows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD6A5FD0-D8DF-4BC7-BAD0-C0BA9404A92F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "137B8583-4B2D-4461-974C-387B26D7B66A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 96,
+  "clippingMaskMode": 0,
+  "do_objectID": "19CA005F-9FE9-499A-A497-E5BEC772476B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0D65492-5A16-4D5A-8204-07D87C3E642C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "298F8BC2-0E4E-45DF-BE85-AB23ED10B239",
+    "height": 52,
+    "width": 278,
+    "x": 1760,
+    "y": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FBBE038-1108-4611-80EE-71910DFF3DC8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E896D5B6-AB12-4F3A-BB60-27DC955E9215"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBA3D60A-C7D2-4547-B400-86307CC554E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDE14AF5-A646-46F2-A5DF-3DCF58318460"
+    },
+    {
+      "class": "text",
+      "id": "2C2C9DE4-E740-4A1A-A95C-15951472A5E7"
+    },
+    {
+      "class": "text",
+      "id": "6F3CAD49-F5B3-4914-9AF2-01BF22BD4B92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F87B01BA-CE34-4D6F-AE7C-37420C261398"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FA1D174-50DA-4350-8ADF-A0C72BB6333B"
+    }
+  ],
+  "name": "Performance / Components / Date Dropdown Pick",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FC51475-B0E7-4107-93E9-1084BD719C0F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FACD8532-FD45-4727-96C6-2E0054206279",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D0B1625-FF17-405A-AB0C-F7E795D4B7CE",
+    "guides": [
+    ]
+  }
+}

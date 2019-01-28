@@ -1,0 +1,134 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "29A33170-0CF2-454B-989F-8362AE8BA4C1",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "11E43EC8-68AD-4FF2-B996-0BC0CADD2EB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86568A05-1014-4A1D-9BA1-5B9137DB4CFD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43C9D7DE-1BE6-4BB5-B180-677EDF352F51",
+    "height": 960,
+    "width": 1300,
+    "x": -1991,
+    "y": -481
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "0A5B011C-2FA1-4981-9CAB-766A234F726C",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C1D7B99C-E68F-43B5-8FC1-B8F4A8506828",
+    "guides": [
+      1021,
+      1097,
+      990,
+      768
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05DBA9AE-E7D2-4318-AFAB-7C67DCD14620"
+    },
+    {
+      "class": "group",
+      "id": "D12E04E6-700C-4CCE-A43A-0A66C18165A3"
+    },
+    {
+      "class": "group",
+      "id": "F5B6CB7D-1E41-4382-9C51-9528325F3043"
+    },
+    {
+      "class": "group",
+      "id": "AD0BC660-1A03-45A4-ADE5-1D62F231292D"
+    },
+    {
+      "class": "group",
+      "id": "F55DCE6C-7541-4448-B358-CA43A83F32EA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "BE67BA67-4001-4452-8170-72A8F8E5A4DD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Competitor Pricing - List - Screen (2)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13C7FF5F-E399-429A-8C64-075CB0EF7E80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "607EC089-AE2E-446C-AFB1-F78AABE35B6C",
+    "guides": [
+      353,
+      398
+    ]
+  }
+}

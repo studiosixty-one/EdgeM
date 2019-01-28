@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93CEC7C9-1FDB-45FC-B91A-DF1F16033A75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98365281-AC01-41E1-892B-DCCD8B01F819",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3F231D3-E295-41F7-A568-ABAF17FB0649",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 173
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Baddesley",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341C3C8A-C8DE-4A8F-BF16-E65400DCDBFA",
+      "overrideName": "38758B10-4EE2-498C-A647-9F5BD9FF722B_stringValue",
+      "value": "Baddesley"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5CFAAA1-BFF5-4A4C-88C4-7549389AE095",
+      "overrideName": "0D17E918-8A33-4873-969D-861F9A1C698C/E55B8139-7EC3-4E80-8EEF-B0502530F5C9_layerStyle",
+      "value": "88461AF9-F42E-41BD-8752-BD349595EA72"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D7B9DE3-822E-4611-BA7C-4E99265A1328",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "364DCF69-F0BC-4762-9791-6753824214CC",
+  "verticalSpacing": 0
+}

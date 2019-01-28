@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "145CD112-9046-452C-AFA7-566C268D4B99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A453699-BCFA-49C4-8DC8-A4BE233D1C6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3256E8A-73B0-478D-9FC5-527F942D81D6",
+    "height": 20,
+    "width": 153,
+    "x": 19,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Type / Figures",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8C4308F-FF33-47CF-B262-132CAA13D6CD",
+      "overrideName": "00F2EF47-7034-4BC4-91AF-70EFA9943C01_symbolID",
+      "value": "08CD45F2-B786-4FF0-BBAD-C7DD99E5C08E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13368678-D4CA-4C1F-9729-CE0860910244",
+      "overrideName": "00F2EF47-7034-4BC4-91AF-70EFA9943C01/940CE286-973C-4ECB-9D68-04F9B5DB6B7E_layerStyle",
+      "value": "189E5068-6241-40A8-AF4F-B13380D38C64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26D67529-A82B-4EA8-93CD-218BBF9CC796",
+      "overrideName": "00F2EF47-7034-4BC4-91AF-70EFA9943C01/ABA06C09-BEF7-423D-96F7-9E2D777BD2CE_stringValue",
+      "value": "22%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "540E59A2-8ECF-4917-98A0-9BC92F58B068",
+      "overrideName": "BE73E0C5-CC67-48DB-BD42-E082E7B57E21_stringValue",
+      "value": "14,483"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E18AD69F-7DE9-4CB9-922B-67850C045106",
+      "overrideName": "3582978A-5D71-4339-B582-DA9AB2B40D79_stringValue",
+      "value": "£"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6206B3A-6B0D-4D2A-A0D3-B73F1952F4EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7D92C84-3E81-43CC-A882-D968A682C8D8",
+  "verticalSpacing": 0
+}

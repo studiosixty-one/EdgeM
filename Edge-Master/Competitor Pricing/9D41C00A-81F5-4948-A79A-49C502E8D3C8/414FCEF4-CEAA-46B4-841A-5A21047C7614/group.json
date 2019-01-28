@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "414FCEF4-CEAA-46B4-841A-5A21047C7614",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C3E7506-39F2-4C25-84BE-4096401C23F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E172C492-871D-4B7A-B11A-8379EA5B61C4",
+    "height": 753,
+    "width": 1043,
+    "x": 229,
+    "y": 154
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A612848E-7FF2-44B2-ABE6-63265F3D0174"
+    },
+    {
+      "class": "text",
+      "id": "ED372C90-E617-4682-8D0E-7287AC44645A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0BE2252B-A1CA-4738-BD8D-EC6BA2C143CF"
+    }
+  ],
+  "name": "Local Competitor Prices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C3C23FC-0F28-4FEE-B9A2-CDA6D7A1067B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

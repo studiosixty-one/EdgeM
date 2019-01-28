@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BE79F44-3FD2-4B61-AD39-64F0B93E0317",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 950,
+    "x": 0,
+    "y": 136
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B59E5EC4-03A0-4970-93EE-23DF10B0E667"
+    },
+    {
+      "class": "rectangle",
+      "id": "A6D2B4E8-EC60-44BA-97E4-01E8ECA3D0B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9E3D454-D893-4F6C-928C-6182DA357595"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15C42277-D9B2-4BA6-96B5-116E4E3A3D62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03E3DF60-9C6A-4895-839C-E13ACBF8AA1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5934750C-3E29-4EFE-ACD6-BD27F988A73D"
+    },
+    {
+      "class": "text",
+      "id": "1A00E11A-55B5-422A-8F47-4688E42C5A8A"
+    },
+    {
+      "class": "text",
+      "id": "BFA17872-2649-4AEA-9312-5596B60F20B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19E96C88-0962-4FAF-8E56-2D10A9332CE8"
+    }
+  ],
+  "name": "Ian Woodcock",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

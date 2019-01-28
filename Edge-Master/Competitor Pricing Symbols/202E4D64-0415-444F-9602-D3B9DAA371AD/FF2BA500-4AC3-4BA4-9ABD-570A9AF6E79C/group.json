@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF2BA500-4AC3-4BA4-9ABD-570A9AF6E79C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C4B69AA-A7DD-41A4-9AEA-5ECA9DF356F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "893825A0-AB1F-4FFC-B450-4A80DE857421",
+    "height": 13,
+    "width": 116,
+    "x": 76.5,
+    "y": 37.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CFACE65E-5502-4F70-917F-2428343DB42B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6042442F-E605-41F3-8DF9-1EBC7A039829"
+    },
+    {
+      "class": "group",
+      "id": "6FDDE520-7986-444D-B75A-7DF7A4566A55"
+    }
+  ],
+  "name": "Direct / Driving",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2341FD88-6974-4FD5-A6A5-6268C110DE7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

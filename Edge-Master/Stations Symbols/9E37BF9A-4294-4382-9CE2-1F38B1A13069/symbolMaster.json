@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B563557C-E0B7-41C6-93A8-30C5E4DEEBF7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E37BF9A-4294-4382-9CE2-1F38B1A13069",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6D0AA82-38A0-4F20-B6B9-42D6B4D6D499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDD36BE6-A281-4665-BDD3-C689ACB6AB73",
+    "height": 1,
+    "width": 1043,
+    "x": 540,
+    "y": -43
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2575DE49-4C3A-4473-9E7E-137DCDD2691A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2C0BEFE0-0E37-440E-976C-D3339206A497"
+    }
+  ],
+  "name": "Stations / Components / Separator",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34B29CC0-532E-457B-8584-CC372541693E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A8D5AFF-220E-46CB-96CC-FDCC1470E4E4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11A5EC4A-0E70-438D-80F0-94703EF994AF",
+    "guides": [
+    ]
+  }
+}

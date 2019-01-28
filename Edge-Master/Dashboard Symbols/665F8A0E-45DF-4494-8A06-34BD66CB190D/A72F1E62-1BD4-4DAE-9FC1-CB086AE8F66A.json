@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72F1E62-1BD4-4DAE-9FC1-CB086AE8F66A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A831A9F-5583-4BF0-9CE7-B112F9981E75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72125016-FB9E-45D8-B7F5-1846A6BD92A2",
+    "height": 26,
+    "width": 54,
+    "x": 15,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Figures / Tooltip Figures",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B53988F5-16EB-41E9-A2DB-9CA16030E7EB_stringValue",
+      "value": "106.54"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F66BF61C-C1D5-45A0-A7E4-D31DF9E081E3",
+      "overrideName": "3A5EFD74-9B9B-46B2-90A4-E62CE448531F_stringValue",
+      "value": "Tue 16th Oct"
+    }
+  ],
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07DC726F-8E97-4025-B5AF-2E3A3DFCE451",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF9955F2-F9C0-415E-94F6-4F174B20B080",
+  "verticalSpacing": 0
+}

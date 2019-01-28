@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "C8F0AAB3-AE1E-47C9-A6A3-7B3688CA16BB",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D11F78CE-B97C-48FE-B916-C63402B10299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A50240F3-74FC-4F45-9A48-29157F30E2F9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "948A0453-8CD7-461D-A989-CE7BE80D1D76",
+    "height": 960,
+    "width": 1280,
+    "x": 4047,
+    "y": 716
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "72CF8D5C-BFF7-4BC9-9CFB-347C32A9A013",
+    "guides": [
+      363,
+      643,
+      923,
+      1250,
+      1032,
+      1141,
+      1255,
+      355,
+      774,
+      529
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DE632796-C579-4FFE-8A98-6FBA35B0AA4E"
+    },
+    {
+      "class": "group",
+      "id": "C17650BA-BD81-48FF-A4E1-8F2A61576E72"
+    },
+    {
+      "class": "group",
+      "id": "717D97CE-051D-4779-BD74-BEF8501FADD9"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FADBD44-173B-449D-97C5-E937E49AA669"
+    },
+    {
+      "class": "group",
+      "id": "3DC75CAB-C93A-43B6-BABA-3CCFA0610431"
+    },
+    {
+      "class": "group",
+      "id": "355DB8EB-7A9E-40B2-9A37-8091C831F440"
+    },
+    {
+      "class": "group",
+      "id": "A89EF3E2-B216-4C46-8642-5A09B9AFAB31"
+    },
+    {
+      "class": "group",
+      "id": "186BA115-96A4-43CA-AECD-0EAD633F3234"
+    }
+  ],
+  "name": "6_Pole Price Notifications",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7654EAFB-AB3A-44C0-B28B-81B1AE4A0316",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19AE924E-8BA3-4B64-BE12-4C09C3F7491E",
+    "guides": [
+      363,
+      677,
+      174,
+      199,
+      243
+    ]
+  }
+}

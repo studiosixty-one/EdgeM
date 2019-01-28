@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0092BCE2-7C4D-4F94-8364-5383CE024AA7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 620,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4655BC0-BC91-4EF1-A0E7-F1AE8A082183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C6ACD50-3A67-4661-848E-E214B07EC143",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "782F1284-DB0D-40F7-BBCC-659CD30A2C7D",
+    "height": 50,
+    "width": 50,
+    "x": -307,
+    "y": -310
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A033B75-91D3-4EB7-8C22-4BC56AF1140A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "10F2975F-9E84-445A-AA2B-308B5CF1C455"
+    }
+  ],
+  "name": "Stations / Icons / Station_TEX",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F6B4412-0B33-48B1-A6B6-2A540A3A5424",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0ACFF40-3318-46A4-9CFE-F8AA7C59CFC4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "978CF173-EBC3-40CA-A86D-261683D84B08",
+    "guides": [
+    ]
+  }
+}

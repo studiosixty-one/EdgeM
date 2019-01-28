@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "577AD2C8-468D-45B1-B426-B0651EC62F8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E10169C3-EF76-4120-BFFD-DA5F2B3F2173",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B9AC524-F1B2-459B-B7A5-D3B0F82334AE",
+    "height": 52,
+    "width": 276,
+    "x": 1,
+    "y": 329
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "vs last year",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5C6CD25-F0A8-4556-BCA3-F5F387966213",
+      "overrideName": "3CDF9433-6E91-44B4-AEA3-80740B4201C6_stringValue",
+      "value": "This week vs. same week last year"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA0FBDA7-1FD5-4479-A372-90CC5DB47925",
+      "overrideName": "23544B63-8992-4F77-9F92-5494040974B7_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EC31926-B2AC-42A6-9A36-A47E7328C8D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B925C9C-BF69-441F-91F2-DA193BFC5F5F",
+  "verticalSpacing": 0
+}

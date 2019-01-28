@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "0A34CD0F-3D93-44EC-B275-E5EB8A6979C4",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FF214C1-7779-4272-BD7E-F13107A867A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF962004-6E56-4E38-B541-343A7FB60B63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BB87432-5892-4B19-BF7C-A0E0CF08CCA2",
+    "height": 960,
+    "width": 1300,
+    "x": 8568,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C12B6D86-EFF8-491B-AA2F-5D3DCE86E761",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8A78A491-2276-4A3A-B4DE-1D1D95ED2DD1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3FA26239-ACB8-4144-8323-547867EFBFAC"
+    },
+    {
+      "class": "group",
+      "id": "CB5F3CD5-4CD0-4F53-8FF9-789BF5BC39CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D6EDBF2-7B50-4D25-88A8-65028A0F0B14"
+    },
+    {
+      "class": "group",
+      "id": "DA3C2077-FFA0-40D1-920B-598BBBF1F3DA"
+    },
+    {
+      "class": "group",
+      "id": "E5860214-FD21-40EA-975E-670E621A8B75"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "8BB012BC-C600-48FD-A123-6D3CF94E4687",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Stations List View - Screen (6)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A24AC703-429F-4F34-AA03-120EB73BF524",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FC4CFE4F-8E53-4D86-BD6D-F3DB37DE142E",
+    "guides": [
+    ]
+  }
+}

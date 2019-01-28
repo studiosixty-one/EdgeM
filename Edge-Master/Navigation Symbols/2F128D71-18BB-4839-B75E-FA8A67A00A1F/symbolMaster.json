@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7E516E27-08E0-4E1C-9D5E-C5B339AB72CD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 718,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F128D71-18BB-4839-B75E-FA8A67A00A1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D10468FC-51C2-4621-A25E-4E51BFFA5B60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65C86BE8-233C-4AE6-8996-C4F502A7D480",
+    "height": 17,
+    "width": 145,
+    "x": 0,
+    "y": 1060
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "80C0CA38-617B-4FB7-A151-A29ECCACBFD3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E97EC09F-0179-490F-8B88-204971DEC17A"
+    }
+  ],
+  "name": "Navigation / Left / Components / Logo",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9649ECB4-5318-470E-A8C1-F6266190E25A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B198AAA1-D378-488B-AE67-859E58E5039D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19B29BA3-AF0D-470A-8D50-F710DC500B5F",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C57CF039-4E3E-4879-8582-107B1D9FD4D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76B4FB55-A5CF-471D-A347-B50DE853AADD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D92093E3-FE7B-476C-9A3C-F30E2B7A2493",
+    "height": 10,
+    "width": 10,
+    "x": 25,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Icons / Ascending",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1515201-CC9C-45FF-866C-CA153360A89F",
+      "overrideName": "87761D38-4E7E-47FB-A1AC-D5AF53C06E8F_layerStyle",
+      "value": "4FBEDEB5-8501-44B3-80E6-04B68FEC6294"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B996D9C6-7D8F-4454-9B89-45693C30CAFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "500993F8-BB16-4D30-A788-BB57961E9367",
+  "verticalSpacing": 0
+}

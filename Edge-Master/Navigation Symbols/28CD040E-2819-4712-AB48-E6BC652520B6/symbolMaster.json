@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3056972789115646,
+    "green": 0.3056972789115646,
+    "red": 0.3056972789115646
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 73,
+  "clippingMaskMode": 0,
+  "do_objectID": "28CD040E-2819-4712-AB48-E6BC652520B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E230D6F-844A-42BF-B210-CC242A95EAD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0F8593E-3D15-4255-A070-206009DA7461",
+    "height": 28,
+    "width": 28,
+    "x": 0,
+    "y": 2304
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B4E412EC-DAA8-4250-B0AE-1B91C558837C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CE41D49-6590-4CEA-9839-A08FF55C65AE"
+    }
+  ],
+  "name": "Navigation / Left / Menu / Dashboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B88B6D7-D958-44C9-9008-A1D39CBFD6CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B67377EC-1E40-41A4-BBCE-605D58672939",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE273559-69E8-4DEC-9CE4-495B4BA11D1E",
+    "guides": [
+    ]
+  }
+}

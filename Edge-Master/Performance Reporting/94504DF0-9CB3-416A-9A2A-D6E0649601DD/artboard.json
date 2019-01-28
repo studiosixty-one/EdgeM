@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "6997665C-B1DD-496A-BFDD-5C8DA8208FAE",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94504DF0-9CB3-416A-9A2A-D6E0649601DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "001ADC3E-B7B5-4507-8A31-1D2BB985E7FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "749F9951-29FF-443F-A8E2-148698D8337F",
+    "height": 960,
+    "width": 1300,
+    "x": 2164,
+    "y": 7688
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7A1AC0D9-AC12-49F1-9790-0EC2C5EA5762",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F72EB15E-ADD2-486B-B23C-D4B960B59729",
+    "guides": [
+      1021,
+      1097,
+      990,
+      768
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95268CCB-5577-498A-86A0-5DE2DD51916C"
+    },
+    {
+      "class": "group",
+      "id": "3F1FCE04-E629-4C25-A098-54771FABE954"
+    },
+    {
+      "class": "group",
+      "id": "57C02AE5-32EB-4450-8622-3D0E79A55856"
+    },
+    {
+      "class": "group",
+      "id": "D97B242F-C096-4954-85C4-64AD347BB222"
+    },
+    {
+      "class": "group",
+      "id": "6D708C8A-181D-4F98-A637-577E41486737"
+    },
+    {
+      "class": "group",
+      "id": "02218B3C-E1FC-4A81-9C60-8DB5E78D5D92"
+    },
+    {
+      "class": "group",
+      "id": "AB61A7FC-EF5A-4964-B832-748B22DC2F50"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "FDAA4646-BA85-472E-92F0-98F44597CBA3",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Performance Reporting - Screen (7)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B49ADA65-C0F6-4958-8A2F-25625B2F2D65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "38F643BA-C0E8-47E4-BC77-C94B849D2ED1",
+    "guides": [
+      353
+    ]
+  }
+}

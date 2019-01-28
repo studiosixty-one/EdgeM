@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EECD51CC-CB7A-42E5-A0C6-126389D12FDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25DFF9F8-5D3F-4974-AAEE-76ADE08CA12B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "403099C9-69F3-42DD-8BDE-BF3B84329FB0",
+    "height": 91,
+    "width": 378,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Retail Volume",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE46E457-6785-4C1B-B0FC-9F3FCB2751CC",
+      "overrideName": "2C1A1372-B4EB-42A5-856F-5B5C60E265CF/91A743B5-7217-40A2-8541-62D29602AC8B_stringValue",
+      "value": "Retail Volume"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54527E8C-2929-47F2-95AB-E2FAF38B7F5F",
+      "overrideName": "2C1A1372-B4EB-42A5-856F-5B5C60E265CF/5275E778-82D6-4A75-8594-81DA5F1339F1_symbolID",
+      "value": "24641C57-A609-45FA-8733-C6881799DAAF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AEFF458-4BD7-4222-8F12-95E1EDA7812A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37BEE596-B29D-450D-933F-7591BCA080F9",
+  "verticalSpacing": 0
+}

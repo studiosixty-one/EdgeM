@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "1CFB8357-6DF0-4DA8-92CD-DAED47A72ED1",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2ED77DA-D762-4FA4-98E0-7F00FB93D961",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "903C82D2-2A15-47B3-B3DE-D4266BA1BAFD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "339BFBED-6C10-4517-9EAC-1FC46C198358",
+    "height": 960,
+    "width": 1280,
+    "x": -1409,
+    "y": 755
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40940CE9-B210-4B53-9D14-408AA64F7F33",
+    "guides": [
+      363,
+      643,
+      923,
+      1250,
+      1032,
+      1141
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0919BDA-24D9-4869-BDBC-A6EE2339A0A0"
+    },
+    {
+      "class": "group",
+      "id": "6DC6C751-382C-4D2F-89F2-BE634C435EAA"
+    },
+    {
+      "class": "group",
+      "id": "4D483D09-88B0-4DCD-A71D-3A60B7F449D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "239C2DF6-2AC0-4EB9-95A7-AB014CE77AB9"
+    }
+  ],
+  "name": "Settings Arrival",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72F76EC1-9D47-465B-A3EB-FBFC1984D39D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "57EDC6BE-2C88-46B5-9947-1E2C2387A063",
+    "guides": [
+      363,
+      677
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5342E2A3-319E-400A-B34D-E5C1D0B9B7E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7ACBA457-0CF0-4BA9-ACD7-BC583AB2DCDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9648D924-A970-4F7D-8661-E20B1843BA83",
+    "height": 108,
+    "width": 192,
+    "x": 1004,
+    "y": 214
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3BF5FB70-A6CD-491B-8000-C5C5B69C12EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3287E5F-3236-45AD-8054-2904E5D52EBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4133E1F1-9BF6-4224-9AE0-53F8A4E382E2"
+    }
+  ],
+  "name": "Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35787EC8-FC64-4221-BADB-AAB6EF38F964",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "03710891-EBC0-4251-A8F6-9AEDF0587C42",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 56,
+  "clippingMaskMode": 0,
+  "do_objectID": "D681CEC7-9A40-4917-9ED9-E99A4A9BA779",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E17ED7B-0498-4EFC-B58F-87555EE2B43F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1C38D85-C94E-41F9-B32A-DA46DCB2A265",
+    "height": 40,
+    "width": 40,
+    "x": 1062,
+    "y": 604
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18060718-99A2-4942-9823-AD07971611C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EC7A62DD-6B7A-48D2-8EBC-29B5F5C3B973"
+    }
+  ],
+  "name": "Competitor Pricing / Icons / Texaco",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "816505C5-91A2-4681-9FEA-CDB102B1C39A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FDD0FA2-33C0-455B-AAF5-E55126F7428F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D717827B-E8C0-4C72-A0F1-3FEE5516DD41",
+    "guides": [
+    ]
+  }
+}

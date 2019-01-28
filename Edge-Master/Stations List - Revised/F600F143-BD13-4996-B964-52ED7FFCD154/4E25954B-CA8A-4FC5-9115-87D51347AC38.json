@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E25954B-CA8A-4FC5-9115-87D51347AC38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C11599B7-0A5A-4753-8159-41576E4F40D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DFFA4A6-FFD2-494B-9375-D3E514A5AB55",
+    "height": 19,
+    "width": 73,
+    "x": 734,
+    "y": 152
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stations / Components / Filter Tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BEB7675-968C-4AFF-AE79-CF25A5D4007B",
+      "overrideName": "CC3883F9-8C7E-448A-B4AB-68ECF97CA8AD_stringValue",
+      "value": "Texaco"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5006A206-3DEE-4EE1-BAD6-41E06113A20E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18948A3D-8AAA-41D1-BE89-978AC30256E8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B7C533B-4405-4F03-8220-94317C31D61B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "405C6155-BD4E-4140-9C04-5FF89B505CD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E35354D-9309-4CD4-924D-3E6D3474DB81",
+    "height": 119,
+    "width": 235,
+    "x": 25,
+    "y": 193
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2960F548-DDF3-4B58-B47F-FBB37F549CF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34CA974C-E387-420E-8C17-5834C6150B95"
+    },
+    {
+      "class": "rectangle",
+      "id": "B771256C-ED1A-4B6F-9E4A-272537B69578"
+    }
+  ],
+  "name": "Settings Menu Items",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F0F7267-5CCE-4824-AD12-9AFE4FA7C2DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

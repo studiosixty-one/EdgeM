@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "437496ED-5255-4387-A782-72062456A61D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AC1F1F2-057B-474C-A23A-28E474DE1B18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD9C0C78-26D5-4B1F-8A3C-18B69A6D2C74",
+    "height": 253,
+    "width": 118,
+    "x": 146,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1B448267-FFA8-4E5B-AFCC-4C99A39BA8A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "CBC9729E-3413-4CD4-A68F-26FB0A04CBA0"
+    }
+  ],
+  "name": "Graph - Tooltip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9B3536A-6F90-4E07-B2B5-78171EC83A40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6B117AEE-7237-48F1-AC17-CD10EAD79B12",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 67,
+  "clippingMaskMode": 0,
+  "do_objectID": "11902334-FDE5-49F5-B92A-1B3866B1B73B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCD02BEA-0728-41E3-8DA7-4AA9BF88BCF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E64B416D-32CE-43F5-858D-32C795A8F6F2",
+    "height": 69,
+    "width": 950,
+    "x": 2005,
+    "y": 248
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26795989-5218-4735-BDC6-74B6E6483934",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "54D45179-08DA-4D32-B9B4-FE5C8E2CF64B"
+    },
+    {
+      "class": "rectangle",
+      "id": "92A52320-665B-47B8-AA65-1EB4913A9810"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B55D908-5DDE-4A8B-AF6C-0C616D775C75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "358A64DD-B6D4-4B17-8CCD-ACE7702BB090"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F04D37A5-A95E-435B-A226-313D3C96747E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81744698-F196-457D-9939-B3D2462102A0"
+    },
+    {
+      "class": "text",
+      "id": "70EA2835-728F-4CA8-914B-6ED818D4D479"
+    },
+    {
+      "class": "text",
+      "id": "0E7D72FD-A223-404B-ADFC-0E5856D1290C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DA02DDE-4B1E-449B-B59A-4AB800CBCF8F"
+    }
+  ],
+  "name": "Settings / Pole Price / User Line",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCB994F8-8E09-4EA0-AE8C-3BEE60C8B299",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAA8DF04-4CF8-4C0D-8768-B3DBA7F65347",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDC1D3BA-7819-463D-9861-4EA1641ADF3E",
+    "guides": [
+    ]
+  }
+}

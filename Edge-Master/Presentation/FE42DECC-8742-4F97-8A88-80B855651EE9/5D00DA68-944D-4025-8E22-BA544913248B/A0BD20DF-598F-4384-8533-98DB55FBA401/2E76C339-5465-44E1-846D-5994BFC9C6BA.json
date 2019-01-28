@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E76C339-5465-44E1-846D-5994BFC9C6BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C36BAB6-C0F1-4C93-B054-430AE2C23810",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99764392-31BC-49FB-A6D2-8C15010EB20C",
+    "height": 25,
+    "width": 63,
+    "x": 244,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Type / Y'DAY EOD - ℓ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DF92A3E-C385-4F5B-BBA0-D29AEECF4AF0",
+      "overrideName": "9D2F8497-6BFD-4A5E-AD87-9983B460E3E8_stringValue",
+      "value": "11,483"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "262C2D94-7331-436B-9F43-71F3C7E268CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "786DC2CC-997E-4CC0-9C2C-1C4293A75CA3",
+  "verticalSpacing": 0
+}

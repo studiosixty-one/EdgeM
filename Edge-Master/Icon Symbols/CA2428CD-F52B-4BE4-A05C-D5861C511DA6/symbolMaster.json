@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "11B85C68-9C80-4A62-BEFC-9DE8A3DD9B70",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 60,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA2428CD-F52B-4BE4-A05C-D5861C511DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52BE6E6E-96F2-472B-AB6B-B82CA4BAC310",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C41F869A-B274-4CDD-97F6-A83A889E9545",
+    "height": 10,
+    "width": 10,
+    "x": 648,
+    "y": 120
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E76080C8-F617-4379-9A1F-893FCA3CB48D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB1C5B19-E316-4857-9916-3169DDB072FE"
+    }
+  ],
+  "name": "Icons / Settings Menu / FAQs",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D0F60D3-218B-4215-BCF1-828214F703AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "206147CD-89AC-4EBC-B436-6A31894420CB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DFCDD4DF-3D63-4DDF-9743-E2EE94B823BF",
+    "guides": [
+    ]
+  }
+}

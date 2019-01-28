@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EE5122C-B1D9-46FB-840C-C49F3CA5FD98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7F1763D-B6C2-4DC1-B12A-4641837FBFAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56FB2C3C-4EFA-4D50-BB06-33C638D2C4E9",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "57B80FA2-2EAF-4BA4-9C0B-87644E1C87BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75FA5602-A60C-4F0F-9C83-B943A3B1202E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEA6DFC2-C4BC-46A0-BF99-60C52B8EA6DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DAD2D09-C584-473F-92D8-A2B5DFEF628A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7338D223-CFF8-4ABB-A909-B1FB481E1180"
+    }
+  ],
+  "name": "Baddesley",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EFA332A4-F6CF-4F63-ABF7-8DCDC249BCFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

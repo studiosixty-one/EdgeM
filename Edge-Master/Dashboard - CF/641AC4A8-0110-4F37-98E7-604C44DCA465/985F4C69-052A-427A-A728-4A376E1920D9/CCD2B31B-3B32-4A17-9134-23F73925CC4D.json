@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCD2B31B-3B32-4A17-9134-23F73925CC4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 408,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile Base",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A97B9BBD-78D7-49AC-9529-39E387D3A889",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2_symbolID",
+      "value": "1626E807-9D8F-41E9-A6C9-24CA5D94E957"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E595F518-3D31-45FD-9B23-71694A71F23B",
+      "overrideName": "1FCC5D64-80AC-4C32-A7C4-D0C2763AB8F2/771F691D-D753-4620-BD1C-DD50543E4864_stringValue",
+      "value": "124,816"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D556AE3A-1CD0-4928-9C94-352BFED4775F",
+      "overrideName": "A234CEA2-C1C0-4BCB-9C16-1ED75C812EF4_symbolID",
+      "value": "9A99C295-9F98-4F1C-9419-96EC03344236"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C05F062D-1A33-4005-B498-6091581A7B78",
+      "overrideName": "A234CEA2-C1C0-4BCB-9C16-1ED75C812EF4/04B3B987-B0E2-4109-A4DA-54B78CF8AA51_stringValue",
+      "value": "118,412"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6529FABC-5725-43C5-9BE4-4F71B38EA729",
+  "verticalSpacing": 0
+}

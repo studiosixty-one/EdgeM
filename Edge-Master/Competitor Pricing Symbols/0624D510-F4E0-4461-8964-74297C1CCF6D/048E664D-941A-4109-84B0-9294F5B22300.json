@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "048E664D-941A-4109-84B0-9294F5B22300",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15D169ED-74C3-44AF-A1D7-0869CC901193",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C96547BB-4953-4658-A4EC-827ABFFCD22A",
+    "height": 68,
+    "width": 95,
+    "x": 1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Generic Symbols / Tooltip / Dark - Bottom",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6C95347-454A-4E4D-8184-0ACBEC4E2597",
+      "overrideName": "C102FF56-2BEA-475E-B868-AD5EB82403E1_layerStyle",
+      "value": "B1C91718-23F4-4D8A-98AF-73D4F4C9711C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09185B9D-35B3-44FF-9D7B-11F31EC39BBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E514EA98-F2BC-4983-A145-6EE6AB6B9503",
+  "verticalSpacing": 0
+}

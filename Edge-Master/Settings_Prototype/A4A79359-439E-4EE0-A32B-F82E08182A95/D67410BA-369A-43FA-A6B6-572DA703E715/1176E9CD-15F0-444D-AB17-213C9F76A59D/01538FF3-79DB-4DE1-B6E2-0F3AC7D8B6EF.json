@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01538FF3-79DB-4DE1-B6E2-0F3AC7D8B6EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BAEEE3D-29A5-48DD-98B4-CED774C9B82E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7629948A-6D05-4409-A17D-7670448595BD",
+    "height": 65,
+    "width": 197,
+    "x": 434,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Net Margin",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBFADEC8-181E-4763-9B94-0FEEA2630EE0",
+      "overrideName": "57D8F0DF-3180-4681-A0CB-B33D31634C3A/5275E778-82D6-4A75-8594-81DA5F1339F1_symbolID",
+      "value": "AA3B90C5-9EA0-494E-947C-E019BBAABEAD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D335C97-AD96-4E1F-9FFB-807F7A72668E",
+      "overrideName": "57D8F0DF-3180-4681-A0CB-B33D31634C3A/91A743B5-7217-40A2-8541-62D29602AC8B_stringValue",
+      "value": "Net Margin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3570A4DD-C0B6-41C3-8467-2C147A1B502C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "054BB925-385B-48E0-A994-64348901F247",
+  "verticalSpacing": 0
+}

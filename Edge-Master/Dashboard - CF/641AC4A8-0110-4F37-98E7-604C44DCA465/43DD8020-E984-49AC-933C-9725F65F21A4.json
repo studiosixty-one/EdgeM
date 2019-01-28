@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43DD8020-E984-49AC-933C-9725F65F21A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 985,
+    "width": 204,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation Left",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F77CAE7-610F-4D43-A0BC-4E0E19295102",
+      "overrideName": "9BB922E2-61DA-4D65-8310-DF85B9AEC3E2/53723ACF-C68F-42DD-89B1-C4BB77BFD3F5_stringValue",
+      "value": "PORTFOLIO"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25C0918D-6FA0-4CA6-A248-470181EB1254",
+      "overrideName": "9BB922E2-61DA-4D65-8310-DF85B9AEC3E2/FA4821A7-E4EC-4BD9-9C64-E5F453D5B671_symbolID",
+      "value": "78C55021-657B-4C31-8F23-82C8CBCC7F27"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDC09976-DED1-4291-8F9C-F71F505184C5",
+      "overrideName": "9BB922E2-61DA-4D65-8310-DF85B9AEC3E2/FA4821A7-E4EC-4BD9-9C64-E5F453D5B671/B0DA51D3-13C9-44D0-8A77-9F69C35C5429_layerStyle",
+      "value": "9C6EAAF0-C5DC-4DB1-95E0-80466984E803"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5830F435-5A81-4DF7-AEEE-B6BF1C791ABC",
+      "overrideName": "3597D08D-9EA0-4339-853B-EEE650EE96D3/3E784FFC-F36F-44EF-AB9C-C3F3A33DDEEB_stringValue",
+      "value": "DASHBOARD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AC26BE2-6282-46CF-B3E1-643CBDF7B52A",
+      "overrideName": "B9B8CC82-8D89-48E2-BD77-29A3A016BC32/08238BB3-D991-4215-9835-8CA268FD0632_stringValue",
+      "value": "Scott"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1E78303-9088-4493-B32F-5172433E1AA1",
+  "verticalSpacing": 0
+}

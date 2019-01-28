@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "97CE68F6-AB78-4783-8019-E5D0393A7F5F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 21,
+  "clippingMaskMode": 0,
+  "do_objectID": "24A3B2DB-FD1C-4755-987A-3D235030CF9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "682AA849-5DF2-47A8-A50F-1CFEEE54B450",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD182610-3A06-4A86-9DFD-3EDF3090C64D",
+    "height": 40,
+    "width": 40,
+    "x": 1062,
+    "y": 382
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8A62E03E-31F6-42CB-A16C-0C5723919148",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "976BB24E-93D1-47D1-91BD-B1DEEF37F8FB"
+    }
+  ],
+  "name": "Competitor Pricing / Icons / Shell",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3C702B5-7C94-4032-A790-A061E0761C33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5B34746-4B76-4E8A-A123-F699FB7689DD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4AF6CBD7-9DF2-47C9-86C2-5634CEE36CC6",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5854CA9B-3DBB-4C05-A935-4D18E67FCCC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "383B6ACB-1C32-4F08-A7E6-2029F786CAC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "161F525A-049D-46AF-9B8F-84D6B255F44A",
+    "do_objectID": "1CCB4881-9BF1-4AC6-857F-7FADD65C05BA"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51ECEBFF-FF8C-4B97-A660-8D65DC77E657",
+    "height": 24,
+    "width": 24,
+    "x": 1114,
+    "y": 188
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Icons / + Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55ED563D-1D8A-46A5-8312-8F2397994E3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1B71784-A158-4B82-93C4-CB9B6817F1AC",
+  "verticalSpacing": 0
+}

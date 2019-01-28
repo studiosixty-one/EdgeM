@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E74AAF1B-E4D6-4C01-98C0-2987F000D533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A44E51F1-4C06-41B2-A7A2-BBA67D1D813B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A6BB832-BCF3-42B3-A484-68C7B428278E",
+    "height": 80,
+    "width": 1043,
+    "x": 0,
+    "y": 560
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40548495-7633-414F-96F4-92FA38830EAF",
+      "overrideName": "FCC5C516-9880-4598-9EB9-FF510DA2E82F_symbolID",
+      "value": "30291744-196A-42A4-A059-BFFB85860E8F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED93695-9F28-4560-8A01-94464F96D801",
+      "overrideName": "97CD4BC3-9E40-4660-8C34-ECC4D2F548D7_symbolID",
+      "value": "34FDBF0F-8C91-4D2E-A6DB-5E9E635B6B67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07992DB7-D969-47A8-AA6C-B931855BBA46",
+      "overrideName": "DD9CED63-DA36-4AEF-9255-53B7D5E8285A_symbolID",
+      "value": "34FDBF0F-8C91-4D2E-A6DB-5E9E635B6B67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "383C53EE-8914-45CF-AE74-769E0FEF58AC",
+      "overrideName": "F7923EF3-C36A-44C0-A67B-D24E4C5A66DA_symbolID",
+      "value": "34FDBF0F-8C91-4D2E-A6DB-5E9E635B6B67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44CDDB7B-C0C1-4BA1-AE45-53C965C6439C",
+      "overrideName": "FCC5C516-9880-4598-9EB9-FF510DA2E82F/726ED25F-6971-4470-AF2A-2C8BA97F8510_stringValue",
+      "value": "Finsbury Park"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF23892F-F095-428C-9B43-D9D17BBA9A4C",
+      "overrideName": "FCC5C516-9880-4598-9EB9-FF510DA2E82F/00432673-1C6C-43A7-9F12-2C6722970FE5_symbolID",
+      "value": "DE5B97D4-3226-4A0C-966D-79C83C6FBDEE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35337166-65BA-46A3-A630-5C8C5A958DF1",
+      "overrideName": "97CD4BC3-9E40-4660-8C34-ECC4D2F548D7/5EB710B0-BDEE-4FDB-AB9D-975743AB7F39_stringValue",
+      "value": "14,840"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C549291E-45F8-48DF-BACD-2269F69A2ABA",
+      "overrideName": "97CD4BC3-9E40-4660-8C34-ECC4D2F548D7/983F85F8-9E32-4EE8-9A44-6DE1209CE419_stringValue",
+      "value": "12,489"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C97588C4-1E6B-4619-8EE9-A07BD0131300",
+      "overrideName": "DD9CED63-DA36-4AEF-9255-53B7D5E8285A/5EB710B0-BDEE-4FDB-AB9D-975743AB7F39_stringValue",
+      "value": "5.44"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C324E53-42C1-4234-BBD4-D432339F8FC1",
+      "overrideName": "DD9CED63-DA36-4AEF-9255-53B7D5E8285A/983F85F8-9E32-4EE8-9A44-6DE1209CE419_stringValue",
+      "value": "4.98"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40BD2222-A741-4263-8839-EB060B3C5AE7",
+      "overrideName": "F7923EF3-C36A-44C0-A67B-D24E4C5A66DA/5EB710B0-BDEE-4FDB-AB9D-975743AB7F39_stringValue",
+      "value": "3.98"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FC404FE-52E7-4E79-9957-96EC8C287300",
+      "overrideName": "F7923EF3-C36A-44C0-A67B-D24E4C5A66DA/983F85F8-9E32-4EE8-9A44-6DE1209CE419_stringValue",
+      "value": "2.40"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51657656-396E-45A4-9689-F6C884BA242C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6F5C104-EF0B-4C67-9A55-194E66026C11",
+  "verticalSpacing": 0
+}

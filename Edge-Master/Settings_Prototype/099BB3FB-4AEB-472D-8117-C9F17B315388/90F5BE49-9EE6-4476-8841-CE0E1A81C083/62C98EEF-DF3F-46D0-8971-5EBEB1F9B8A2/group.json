@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62C98EEF-DF3F-46D0-8971-5EBEB1F9B8A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 951,
+    "x": 0,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "83EDABEE-116A-4DCB-8C40-DA0E7FF09ACF"
+    },
+    {
+      "class": "rectangle",
+      "id": "F97F68CC-9A50-4928-ACB6-EDC63B58E31E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7160C473-1967-4B62-9BDF-0CEB3042FD92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F45C50DA-CD9B-46C7-AC11-37F1EE6A5091"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB7BB326-B297-41D7-A24B-A00AE7FB11E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "202E5C85-9CD2-4108-AE89-15904193B9A2"
+    },
+    {
+      "class": "text",
+      "id": "DF5E17C3-A710-4F16-BCC2-FFF7FC65543F"
+    },
+    {
+      "class": "text",
+      "id": "17026349-6692-47D2-9292-259B61859F57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65C6FB0A-A141-4B8B-962C-624E3B6D4C82"
+    }
+  ],
+  "name": "Gideon Carroll",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

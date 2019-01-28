@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12218A66-139D-40D5-8889-7F8C0D74DB09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C090B22D-09C6-455C-A4EE-BC8B1988EDC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "BABD1A8B-3860-403A-BBC9-E7EC9DAEAA9E",
+    "do_objectID": "D8B99214-2EF7-47AD-A94E-078F6C41A73C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6545FC9-7EE3-448B-BE86-8CE99ED6AC20",
+    "height": 20,
+    "width": 20,
+    "x": 851,
+    "y": 204
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Perforamance Reporting / Icons / View / Graph",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D85EC87-E97A-4732-BF78-4D6E93640791",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF3C6CB1-ADA8-41D7-B86C-30A77593A055",
+  "verticalSpacing": 0
+}

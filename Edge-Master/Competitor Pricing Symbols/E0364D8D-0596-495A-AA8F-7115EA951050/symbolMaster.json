@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3489BB6B-ABB6-4579-B3BD-D079FAA82992",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4654,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0364D8D-0596-495A-AA8F-7115EA951050",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66E4437F-056B-4106-B9D8-033C7BC4BD3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F611A94-AF88-43DB-97E1-78400C9F9FB0",
+    "height": 71,
+    "width": 173,
+    "x": 431,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32A35DFA-4EA4-413A-8A3F-3E7025109156",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A62FB1DC-7570-4537-9510-BD5ABBBDA993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBD85B82-0DDE-4820-B805-292192BE82D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05463F88-0526-485C-9D91-D282112048C7"
+    },
+    {
+      "class": "text",
+      "id": "28711E62-2C5F-4650-A30E-A139FAF894CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A05CD226-2748-47FA-BB14-7D7F1D8D35D8"
+    },
+    {
+      "class": "text",
+      "id": "6C2988FB-8735-406F-85EB-26F0A9B14808"
+    },
+    {
+      "class": "text",
+      "id": "68DF32DF-62AD-4672-8C5F-6C688BF44E4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C144625-620D-47F8-84B8-1FDFD3CAA586"
+    }
+  ],
+  "name": "Competitor Pricing / Components / Table Cell Align-Rightw-LastSeen -Small No Indicator",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18B3D33E-1B36-47E5-A364-442DCF0D9E60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E0A60EA9-9BA6-4A20-9DFA-A7025CC01B40",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "181BF769-AA8B-4E36-A10C-BE5729977444",
+    "guides": [
+    ]
+  }
+}

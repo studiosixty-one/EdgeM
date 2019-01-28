@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8E5639E-C4CB-4630-83CB-C5E5078F4CAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "900B4CA7-54CB-44AF-B3E8-FC728723DD3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D5D7850-8580-47B3-9B04-E9E1EBF095F5",
+    "height": 100,
+    "width": 273,
+    "x": 0,
+    "y": 106
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Settings / Components / Station Role Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47094CE4-A99A-4034-8974-1A75C77B13F4",
+      "overrideName": "4CA40057-6380-4DF4-918F-7D8767B2A983_stringValue",
+      "value": "Station Manager"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "988CAE37-A1AB-4D45-8E69-2D541915741B",
+      "overrideName": "E56FC416-1009-486B-9360-17FB22199F93_stringValue",
+      "value": "You see your station and your station only. Making single decisions."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08AB4AB2-E2A5-4604-AD91-3E3E6BF598B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2151FD6F-10A2-4E75-91CD-461CEF327BB7",
+  "verticalSpacing": 0
+}

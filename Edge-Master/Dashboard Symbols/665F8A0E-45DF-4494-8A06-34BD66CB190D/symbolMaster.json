@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AFF13F66-4634-4C7C-8731-CDB59A1E6643",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 10,
+  "clippingMaskMode": 0,
+  "do_objectID": "665F8A0E-45DF-4494-8A06-34BD66CB190D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C04905A4-2398-438A-B777-A7C7369D090C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EEBB933-202F-427D-B4BD-823B620747B6",
+    "height": 88,
+    "width": 118,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5F5B9129-20A6-45E6-8769-040493A85E35",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8A89BBA8-0BCD-4357-A3AA-CB3464CF2387"
+    },
+    {
+      "class": "text",
+      "id": "4EEF230D-423F-4267-843C-AD2FBBF755B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "56FAFAA7-4BC0-4C15-A073-9D7E9101A681"
+    },
+    {
+      "class": "text",
+      "id": "1699B199-6A7A-4963-A3F2-5794EF5A49AB"
+    },
+    {
+      "class": "text",
+      "id": "635D3CC9-72BB-4616-BC64-028046D00B6C"
+    },
+    {
+      "class": "text",
+      "id": "1A408918-1653-42E3-B2B3-1F78FC339F79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BD04658-C831-41B8-932B-92D1FE480BEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A72F1E62-1BD4-4DAE-9FC1-CB086AE8F66A"
+    }
+  ],
+  "name": "Metrics / Components / Platts Tooltip",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "624A2E17-E742-4DA0-A2B9-4B8B2217A426",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC6F9DE1-78C0-45DD-A8CD-2FDAE818CBF2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C04C9CA3-8E4E-40B8-863E-EAA8B6CF7EC9",
+    "guides": [
+    ]
+  }
+}

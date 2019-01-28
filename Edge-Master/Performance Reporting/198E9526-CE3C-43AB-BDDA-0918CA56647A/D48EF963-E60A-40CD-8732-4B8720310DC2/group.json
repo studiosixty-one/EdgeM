@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D48EF963-E60A-40CD-8732-4B8720310DC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B767DED-8EF4-44E8-894C-6321EEFF0B6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7535AC0-FAA3-42C9-9CB5-CCB6FDFE21CC",
+    "height": 205,
+    "width": 929,
+    "x": 301,
+    "y": 495
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "9755918A-103D-49FA-BCA9-85D928A909D4"
+    },
+    {
+      "class": "oval",
+      "id": "5CC70242-1242-4FB7-9AC1-74796FB3B100"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7B7ECD4-AC41-490B-8C4D-0348525507CF"
+    },
+    {
+      "class": "oval",
+      "id": "AAEA1FB2-EE7E-42AD-A1BE-12899E1A326B"
+    },
+    {
+      "class": "oval",
+      "id": "3744C614-4951-463E-8566-5C51B031BF05"
+    },
+    {
+      "class": "oval",
+      "id": "63C52265-78E4-4F9B-B253-EA778B3315FA"
+    },
+    {
+      "class": "oval",
+      "id": "C2E18EDF-2DF6-40A8-918A-3758EF09C0B7"
+    },
+    {
+      "class": "oval",
+      "id": "67AD2E88-F950-45D0-B7F0-B8680A6AD8A6"
+    },
+    {
+      "class": "oval",
+      "id": "C006F030-E787-49CC-8344-3A1E9A1CF97E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF9E93B7-7DA1-4F75-ABA4-1D987E7DA24B"
+    }
+  ],
+  "name": "Shell Volume",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "43D71D88-39C8-489E-9EF1-70902A750493",
+      "opacity": 0.1248604910714286
+    },
+    "do_objectID": "8EE86DDA-36EF-48AA-A161-19B8015A2A55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "14F80D37-A4B5-4FDE-8CC9-81319AF98BC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A39080D9-DD3B-41D5-9EEE-87179E672D3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85E0A8B9-99F6-4C7E-9CEA-8F939678EDE6",
+    "height": 21,
+    "width": 56,
+    "x": 261,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Metrics / Icons / Net Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D171E586-1B7A-4260-8315-E988B543127F",
+      "overrideName": "297087B3-E7CC-4314-A834-8A22ADEAB11E_stringValue",
+      "value": "TOTAL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DA8AC84-C4FE-4238-85FF-91512699C401",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "70D22AF2-B091-4D41-8517-1746F4440EB9",
+  "verticalSpacing": 0
+}

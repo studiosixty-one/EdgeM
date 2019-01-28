@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E148318-22FF-4E90-B6B2-BF50C1F1F0BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C630E5A5-249C-48D8-8F1C-6A9DD9A84012",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40A08761-3057-4E77-81B7-07687BDDA0EF",
+    "height": 31,
+    "width": 288,
+    "x": 20,
+    "y": 235
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Station Three",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "739DA9E3-BE36-4E3E-8698-56C01BF57D5C",
+      "overrideName": "E8D5C4FC-434B-4B79-8C83-D86D41F39BE4_stringValue",
+      "value": "Kings Cross St. Pancras"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF0317EA-9B43-4AA3-9AF8-31C72D3BF540",
+      "overrideName": "C074CF5D-7892-45F8-8493-3D79620B10D0_stringValue",
+      "value": "9,583"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A269871A-88D3-4319-9CD9-761BB1A4FBC9",
+      "overrideName": "DD1D510A-6618-4588-AFEE-5DD2A7756068/FD7CB97E-1718-4FB5-A0FB-434B7EED3540_stringValue",
+      "value": "6%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75CA9E57-33A1-430E-A9C0-814D4C568657",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6EFAE31-7B51-42A2-9A08-FF3E763A6F1E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AC43427-01A7-4A9E-B524-3E1CBDDA80AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "484EA7DB-7964-4DA1-94AC-E416DCB81729",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A46DA323-1B8B-4738-A03E-17DBB845B91E",
+    "height": 133,
+    "width": 950,
+    "x": 330,
+    "y": 415
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C95B322C-59F3-4222-91BA-357730D0FE55"
+    },
+    {
+      "class": "rectangle",
+      "id": "7BFBE451-5C18-470A-B7A9-C9665030223C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9532C0C-6180-487F-B67D-5A8D3C2BD289"
+    }
+  ],
+  "name": "Pole Notification 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9388D49-E890-45FC-B215-8ADB1FF015E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

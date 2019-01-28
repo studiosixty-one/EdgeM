@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFE23E44-3320-4561-91ED-2FC0C3517A9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40DA1D25-B010-411B-8A1D-915683802F15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48679E37-3924-491E-BA0B-A029EA7DB3A3",
+    "height": 68,
+    "width": 170,
+    "x": 0,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "View as",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE958070-4C3B-4E78-AC71-C13225C37C58",
+      "overrideName": "612D069D-AE70-473A-88C1-63DC879C21AD/EF0543BB-CDB5-46DB-98C0-AEC743653701_stringValue",
+      "value": "Volume + Margin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6B6FFA6-3D63-4337-8A6D-3D424A5464C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EAE4B25-CFB2-4C00-B41C-BA68C5366886",
+  "verticalSpacing": 0
+}

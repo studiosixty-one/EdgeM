@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4665A08A-49ED-4E88-992E-5A00004FFD33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55FFA2EB-EB6D-4501-AB91-175DA21DADA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "466CA15D-8408-4995-AF2F-8E5293B50CD8",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 490
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1FE3DE39-6478-4669-B60F-0CFDAF5D6CAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCA22508-F83C-4EBA-A89D-F171E103155C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3587271-7629-41FF-B50E-FBB0D0BAEFF7"
+    }
+  ],
+  "name": "Garston",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1916EF69-6E6B-405A-A5EB-8135130E1442",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

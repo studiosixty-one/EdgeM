@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "985F4C69-052A-427A-A728-4A376E1920D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 408,
+    "width": 328,
+    "x": 226,
+    "y": 546
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CCD2B31B-3B32-4A17-9134-23F73925CC4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D92B0852-EF92-4D10-9EAF-7299021A2221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "791E4042-8D1B-4E6F-B856-3138279B5DDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9BBB86B-782A-4310-A802-741DA046B136"
+    },
+    {
+      "class": "group",
+      "id": "7DD3CAED-4AAE-47FD-972F-0A23BE7EF4CF"
+    },
+    {
+      "class": "group",
+      "id": "C962099A-73E6-4AFF-8083-1599656FF604"
+    }
+  ],
+  "name": "Tile Four",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

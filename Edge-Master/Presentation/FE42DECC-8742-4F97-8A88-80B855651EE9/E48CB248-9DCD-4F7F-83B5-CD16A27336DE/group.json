@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E48CB248-9DCD-4F7F-83B5-CD16A27336DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11DF82F7-B025-401A-B8A4-0B6E877B66F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F20A351-65F2-43EF-A034-5823B189D9F8",
+    "height": 396,
+    "width": 328,
+    "x": 584,
+    "y": 108
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C0CF63C2-C4D5-4057-AF77-C11F30F0CF90"
+    },
+    {
+      "class": "group",
+      "id": "B2E672A6-D5E2-42F2-AA50-6FF6632D2C31"
+    },
+    {
+      "class": "group",
+      "id": "3E7CF761-A11D-486C-89F7-B736C2ED3A1A"
+    }
+  ],
+  "name": "Net Margin",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85C477F7-AB6D-4FE6-B47F-5FA9077D5DAC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

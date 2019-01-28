@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "3C010C6E-D9F4-476D-8F99-65C394126687",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F87C1D48-DEBB-4F51-A985-4FB12881E5F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE655828-7BFE-477F-84D8-BE3B4E468B5D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0CF2D6C-3EDE-4D47-8D3F-D1EA49CB5B8D",
+    "height": 960,
+    "width": 1300,
+    "x": 7453,
+    "y": -1582
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2DCCF368-F42C-4B38-BC71-BEA752692672",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F5DE743B-E1C1-4C50-A322-F4550B442E40",
+    "guides": [
+      1084
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "727E79CD-D119-448E-9DD7-0A84B9CA78E3"
+    },
+    {
+      "class": "group",
+      "id": "15E05030-D0A6-445A-945B-73A885D99397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC2F114C-3AB2-442E-A846-63F61C9F8C53"
+    },
+    {
+      "class": "group",
+      "id": "1B48B1F2-6AFF-4DAD-A50B-917F2FA10EEC"
+    },
+    {
+      "class": "group",
+      "id": "94E81615-E5EA-423B-9C92-E2BFB010B87F"
+    },
+    {
+      "class": "group",
+      "id": "9D6C9DDA-59BF-42B8-BD51-FF51BDBF5529"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BE6F659-8480-4885-AF31-416AFE9E6BEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "918C4E51-43F3-4122-A792-FD78D961E662"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23DC1E8A-623D-4E6E-A83E-56F69BF4817B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "902E3928-7B8E-4D5E-93C0-387701F22B1B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "3A577E99-E7E2-4039-A66F-C80412C8CC51",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Stations List View - Screen (9)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D040A7A-AF9B-432E-A808-1FB38DFED983",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DDF57336-6649-4C91-BDD5-D178DECF4157",
+    "guides": [
+    ]
+  }
+}

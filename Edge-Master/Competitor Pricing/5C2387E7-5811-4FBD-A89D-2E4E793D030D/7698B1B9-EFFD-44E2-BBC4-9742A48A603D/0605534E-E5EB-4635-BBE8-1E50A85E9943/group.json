@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0605534E-E5EB-4635-BBE8-1E50A85E9943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "068E9973-550F-46E8-99E6-E87EED4460BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81223A0C-1496-4086-AA56-21FBD78B9C57",
+    "height": 70,
+    "width": 1043,
+    "x": 0,
+    "y": 280
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A2EEE3A-B0B8-47F7-B61E-39E247A35387"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "478D8AE0-7C5C-42A0-9860-0803EC12AB30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7C57366-08E2-4B66-94E0-7E649CB5D015"
+    }
+  ],
+  "name": "Dagenham",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07197C9D-A317-4397-AD26-A5E2A2837E1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

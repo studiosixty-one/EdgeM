@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8D7DB6D-50DF-40D3-BAAD-08963840ED6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "036382A5-59FB-4524-9BE7-BC576E9F5737",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D3B047D-3582-4D24-81BD-C8E3D087B713",
+    "height": 352,
+    "width": 908,
+    "x": 35,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7B17AEA6-E671-4B09-8BF7-21852763D575"
+    },
+    {
+      "class": "shapePath",
+      "id": "80027E7E-00AE-4A83-AAAE-3A197FBB5781"
+    },
+    {
+      "class": "shapePath",
+      "id": "290255BA-2B6C-4B09-A717-4721FCDA013A"
+    },
+    {
+      "class": "shapePath",
+      "id": "487123A8-EA5C-400D-82E6-D755E27DD362"
+    },
+    {
+      "class": "shapePath",
+      "id": "30FD6EF7-D93C-4159-9C0A-42CE4F9B839A"
+    },
+    {
+      "class": "shapePath",
+      "id": "E05DF372-7F53-4228-B0E0-6C11FEFA4648"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1405A83-4E2B-404F-BB31-4DB2F10C2FD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "551AD408-E37F-44D7-A812-09175D7460D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "12B1D393-85CD-425B-9915-749D606A5E52"
+    },
+    {
+      "class": "shapePath",
+      "id": "793E8E63-D01C-439B-BF64-CBDCD7D222A3"
+    }
+  ],
+  "name": "Graph Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD64813D-3B27-4E7B-A3FE-DE2EECBBE9D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

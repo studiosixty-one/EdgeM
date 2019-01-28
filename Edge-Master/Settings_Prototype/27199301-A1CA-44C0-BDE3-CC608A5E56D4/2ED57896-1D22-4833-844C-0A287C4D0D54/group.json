@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ED57896-1D22-4833-844C-0A287C4D0D54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 840,
+    "x": 385,
+    "y": 549
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A1A3146-D5B8-4D1A-B125-F3C1EBC40F3B"
+    },
+    {
+      "class": "rectangle",
+      "id": "9EBB8536-51F1-4101-A267-C7CED99A2F1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EF820C2-238C-466D-9AE2-4D9C74F603C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "793A19DA-3BBE-4B30-BB37-D5B24AD5B553"
+    },
+    {
+      "class": "text",
+      "id": "3D8E632D-F0F6-402B-BD84-4FB43BEC2A33"
+    },
+    {
+      "class": "text",
+      "id": "7318A8EF-6D28-48DF-B164-417AD54FC451"
+    },
+    {
+      "class": "rectangle",
+      "id": "A26A1FB8-C373-4B58-A122-E85DDA290EA5"
+    }
+  ],
+  "name": "Settings / Components / Metric Line Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

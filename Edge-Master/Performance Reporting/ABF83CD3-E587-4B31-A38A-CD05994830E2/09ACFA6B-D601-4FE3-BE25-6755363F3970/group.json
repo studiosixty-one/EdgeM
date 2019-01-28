@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09ACFA6B-D601-4FE3-BE25-6755363F3970",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3F62843-1866-4C41-B75F-582F84EC1ED6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CEBE480E-5039-4D6A-B393-EE3CBB12832F",
+    "height": 457,
+    "width": 943,
+    "x": 279,
+    "y": 383
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2AD442ED-1E69-4DEB-9829-5B9EE999811D"
+    },
+    {
+      "class": "group",
+      "id": "FA500CFC-422E-4401-A2AC-DA561D71F054"
+    },
+    {
+      "class": "group",
+      "id": "540CD3B3-E95C-43DE-8F07-06673A57D769"
+    },
+    {
+      "class": "group",
+      "id": "DCF01A0D-01B5-4409-BE58-89D932C3F052"
+    },
+    {
+      "class": "group",
+      "id": "A67A2F38-97EB-41AD-959F-47A8C4417021"
+    }
+  ],
+  "name": "Graph Framework",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEF994AF-B5D2-4F40-91DA-E9F460CDC4F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
